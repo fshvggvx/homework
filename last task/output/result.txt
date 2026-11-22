@@ -1,0 +1,2113 @@
+tx_m 0.136991 ty_m 0.475631 tz_m 2.60529 rx_m 0.188739 ry_m 0.0493021 rz_m -0.000656484 distance_m 2.65189
+frame_id 1 time_s 0.00833333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00816368
+tx_m 0.129894 ty_m 0.471065 tz_m 2.58426 rx_m 0.199729 ry_m 0.0314834 rz_m 0.0165802 distance_m 2.63005
+frame_id 2 time_s 0.0166667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.145968
+tx_m 0.124072 ty_m 0.47103 tz_m 2.58409 rx_m 0.199911 ry_m 0.0300946 rz_m 0.0169276 distance_m 2.6296
+frame_id 3 time_s 0.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.146025
+tx_m 0.121425 ty_m 0.480678 tz_m 2.63309 rx_m 0.159775 ry_m 0.0453805 rz_m 0.00118073 distance_m 2.67936
+frame_id 4 time_s 0.0333333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0223637
+tx_m 0.11638 ty_m 0.481207 tz_m 2.64007 rx_m 0.141127 ry_m 0.0238687 rz_m 0.0197585 distance_m 2.68609
+frame_id 5 time_s 0.0416667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10834
+tx_m 0.110435 ty_m 0.481178 tz_m 2.63994 rx_m 0.1413 ry_m 0.0226264 rz_m 0.0200263 distance_m 2.6857
+frame_id 6 time_s 0.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.108376
+tx_m 0.106267 ty_m 0.484559 tz_m 2.66251 rx_m 0.108571 ry_m 0.0412544 rz_m 0.0284932 distance_m 2.70833
+frame_id 7 time_s 0.0583333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0184478
+tx_m 0.102145 ty_m 0.489828 tz_m 2.69162 rx_m 0.0668771 ry_m 0.0396301 rz_m 0.0302314 distance_m 2.73773
+frame_id 8 time_s 0.0666667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0474273
+tx_m 0.092584 ty_m 0.495263 tz_m 2.72572 rx_m -0.0125812 ry_m -0.00587698 rz_m 0.0530077 distance_m 2.77189
+frame_id 9 time_s 0.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0424268
+tx_m 0.0284107 ty_m 0.476742 tz_m 2.66078 rx_m -0.193079 ry_m 0.597176 rz_m 0.0364489 distance_m 2.7033
+frame_id 10 time_s 0.0833333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.303275
+tx_m -7.75298e-05 ty_m 0.515463 tz_m 2.90353 rx_m -0.197622 ry_m 0.742041 rz_m 0.0237943 distance_m 2.94893
+frame_id 11 time_s 0.0916667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17625
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 12 time_s 0.1	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 13 time_s 0.108333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 14 time_s 0.116667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 15 time_s 0.125	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 16 time_s 0.133333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 17 time_s 0.141667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 18 time_s 0.15	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 19 time_s 0.158333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 20 time_s 0.166667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 21 time_s 0.175	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 22 time_s 0.183333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 23 time_s 0.191667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.417037 ty_m 0.273355 tz_m 2.77341 rx_m -0.114705 ry_m -0.562579 rz_m -0.0481976 distance_m 2.81788
+frame_id 24 time_s 0.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.24154
+tx_m 0.422172 ty_m 0.277585 tz_m 2.82364 rx_m -0.124167 ry_m -0.499905 rz_m -0.0855322 distance_m 2.86849
+frame_id 25 time_s 0.208333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.211598
+tx_m 0.404749 ty_m 0.271882 tz_m 2.75902 rx_m -0.122454 ry_m -0.495331 rz_m -0.0820303 distance_m 2.80177
+frame_id 26 time_s 0.216667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.219687
+tx_m 0.391021 ty_m 0.266642 tz_m 2.69119 rx_m -0.114701 ry_m -0.486442 rz_m -0.0634137 distance_m 2.73249
+frame_id 27 time_s 0.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.226761
+tx_m 0.390766 ty_m 0.267835 tz_m 2.70552 rx_m -0.112839 ry_m -0.460362 rz_m -0.0652555 distance_m 2.74668
+frame_id 28 time_s 0.233333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.213925
+tx_m 0.375462 ty_m 0.261156 tz_m 2.63001 rx_m -0.112305 ry_m -0.464449 rz_m -0.0619956 distance_m 2.66948
+frame_id 29 time_s 0.241667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.227986
+tx_m 0.368889 ty_m 0.260497 tz_m 2.61501 rx_m -0.113956 ry_m -0.42491 rz_m -0.0764882 distance_m 2.65371
+frame_id 30 time_s 0.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.213777
+tx_m 0.36929 ty_m 0.263532 tz_m 2.63911 rx_m -0.108568 ry_m -0.425104 rz_m -0.0604431 distance_m 2.67782
+frame_id 31 time_s 0.258333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.209445
+tx_m 0.372316 ty_m 0.269049 tz_m 2.69408 rx_m -0.105371 ry_m -0.335099 rz_m -0.0795327 distance_m 2.73296
+frame_id 32 time_s 0.266667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163417
+tx_m 0.366946 ty_m 0.268553 tz_m 2.6884 rx_m -0.10032 ry_m -0.292183 rz_m -0.0795001 distance_m 2.72659
+frame_id 33 time_s 0.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.145366
+tx_m 0.362555 ty_m 0.268716 tz_m 2.69008 rx_m -0.0934159 ry_m -0.237344 rz_m -0.0803833 distance_m 2.72767
+frame_id 34 time_s 0.283333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.120922
+tx_m 0.360356 ty_m 0.271199 tz_m 2.70778 rx_m -0.0905811 ry_m -0.240648 rz_m -0.0652386 distance_m 2.74508
+frame_id 35 time_s 0.291667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.120347
+tx_m 0.347481 ty_m 0.265524 tz_m 2.64388 rx_m -0.0965307 ry_m -0.297635 rz_m -0.0604895 distance_m 2.6798
+frame_id 36 time_s 0.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.152086
+tx_m 0.350888 ty_m 0.271763 tz_m 2.70623 rx_m -0.081804 ry_m -0.158554 rz_m -0.0817755 distance_m 2.74238
+frame_id 37 time_s 0.308333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0844507
+tx_m 0.347752 ty_m 0.27444 tz_m 2.71819 rx_m -0.0669103 ry_m -0.104647 rz_m -0.0576949 distance_m 2.75405
+frame_id 38 time_s 0.316667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0588478
+tx_m 0.333785 ty_m 0.268231 tz_m 2.64902 rx_m -0.0775572 ry_m -0.16045 rz_m -0.0522869 distance_m 2.68341
+frame_id 39 time_s 0.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0881436
+tx_m 0.334256 ty_m 0.27327 tz_m 2.69705 rx_m -0.0205847 ry_m 0.00531562 rz_m -0.0758204 distance_m 2.73138
+frame_id 40 time_s 0.333333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00493072
+tx_m 0.328014 ty_m 0.27113 tz_m 2.67794 rx_m 0.0631271 ry_m 0.0537389 rz_m -0.0842764 distance_m 2.71154
+frame_id 41 time_s 0.341667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0407136
+tx_m 0.325771 ty_m 0.273711 tz_m 2.70259 rx_m 0.000524653 ry_m 0.024214 rz_m -0.0780767 distance_m 2.73588
+frame_id 42 time_s 0.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00831167
+tx_m 0.319327 ty_m 0.27348 tz_m 2.69359 rx_m 0.0498567 ry_m 0.0491526 rz_m -0.0694247 distance_m 2.7262
+frame_id 43 time_s 0.358333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0338795
+tx_m 0.310953 ty_m 0.270883 tz_m 2.66747 rx_m 0.104628 ry_m 0.0617088 rz_m -0.0714851 distance_m 2.69916
+frame_id 44 time_s 0.366667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0602781
+tx_m 0.301177 ty_m 0.26757 tz_m 2.62156 rx_m 0.0734464 ry_m 0.0557231 rz_m -0.0569401 distance_m 2.65233
+frame_id 45 time_s 0.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0474668
+tx_m 0.29532 ty_m 0.267636 tz_m 2.62192 rx_m 0.0737936 ry_m 0.0546969 rz_m -0.0562067 distance_m 2.65204
+frame_id 46 time_s 0.383333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0474054
+tx_m 0.28946 ty_m 0.267699 tz_m 2.62228 rx_m 0.0741413 ry_m 0.0536601 rz_m -0.0554884 distance_m 2.65175
+frame_id 47 time_s 0.391667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0473738
+tx_m 0.278707 ty_m 0.262392 tz_m 2.56401 rx_m 0.0519276 ry_m 0.0466346 rz_m -0.0539026 distance_m 2.59243
+frame_id 48 time_s 0.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0378908
+tx_m 0.273042 ty_m 0.262549 tz_m 2.56497 rx_m 0.0517318 ry_m 0.0456179 rz_m -0.0526213 distance_m 2.59278
+frame_id 49 time_s 0.408333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0375719
+tx_m 0.268633 ty_m 0.264544 tz_m 2.57805 rx_m 0.046056 ry_m 0.0438371 rz_m -0.0403113 distance_m 2.60548
+frame_id 50 time_s 0.416667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0342545
+tx_m 0.25894 ty_m 0.259191 tz_m 2.52635 rx_m 0.148849 ry_m 0.0627627 rz_m -0.0463707 distance_m 2.55278
+frame_id 51 time_s 0.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.089143
+tx_m 0.254512 ty_m 0.261178 tz_m 2.53887 rx_m 0.140617 ry_m 0.0622241 rz_m -0.0339374 distance_m 2.56492
+frame_id 52 time_s 0.433333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0841526
+tx_m 0.248798 ty_m 0.261186 tz_m 2.53884 rx_m 0.141053 ry_m 0.060846 rz_m -0.0334506 distance_m 2.56433
+frame_id 53 time_s 0.441667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0841645
+tx_m 0.240949 ty_m 0.258995 tz_m 2.51667 rx_m 0.306725 ry_m 0.0637192 rz_m -0.0638253 distance_m 2.54141
+frame_id 54 time_s 0.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.168812
+tx_m 0.235258 ty_m 0.258955 tz_m 2.51633 rx_m 0.307125 ry_m 0.0619843 rz_m -0.0634058 distance_m 2.54054
+frame_id 55 time_s 0.458333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.168908
+tx_m 0.22957 ty_m 0.258916 tz_m 2.51601 rx_m 0.307516 ry_m 0.0602478 rz_m -0.062985 distance_m 2.53969
+frame_id 56 time_s 0.466667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.169017
+tx_m 0.215132 ty_m 0.25352 tz_m 2.46415 rx_m 0.352417 ry_m 0.0575729 rz_m -0.0640588 distance_m 2.48648
+frame_id 57 time_s 0.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.19909
+tx_m 0.210617 ty_m 0.254013 tz_m 2.47626 rx_m 0.349178 ry_m 0.0591392 rz_m -0.0514327 distance_m 2.49815
+frame_id 58 time_s 0.483333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195573
+tx_m 0.205862 ty_m 0.256406 tz_m 2.48601 rx_m 0.288764 ry_m 0.0589019 rz_m -0.0379857 distance_m 2.50766
+frame_id 59 time_s 0.491667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163464
+tx_m 0.200249 ty_m 0.256371 tz_m 2.48572 rx_m 0.289119 ry_m 0.0571715 rz_m -0.0375842 distance_m 2.50691
+frame_id 60 time_s 0.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163549
+tx_m 0.196438 ty_m 0.259411 tz_m 2.50832 rx_m 0.205212 ry_m 0.0566993 rz_m -0.0109783 distance_m 2.52934
+frame_id 61 time_s 0.508333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.118148
+tx_m 0.190787 ty_m 0.258715 tz_m 2.50827 rx_m 0.279493 ry_m 0.0587662 rz_m -0.0137078 distance_m 2.52879
+frame_id 62 time_s 0.516667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155898
+tx_m 0.185128 ty_m 0.258681 tz_m 2.50799 rx_m 0.279819 ry_m 0.0570347 rz_m -0.0133162 distance_m 2.52808
+frame_id 63 time_s 0.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155944
+tx_m 0.179475 ty_m 0.25797 tz_m 2.50784 rx_m 0.342507 ry_m 0.0572137 rz_m -0.0152819 distance_m 2.52745
+frame_id 64 time_s 0.533333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187249
+tx_m 0.17382 ty_m 0.257938 tz_m 2.50757 rx_m 0.342772 ry_m 0.0554181 rz_m -0.0148125 distance_m 2.52678
+frame_id 65 time_s 0.541667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187288
+tx_m 0.168166 ty_m 0.257907 tz_m 2.5073 rx_m 0.343029 ry_m 0.0536219 rz_m -0.014342 distance_m 2.52614
+frame_id 66 time_s 0.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187356
+tx_m 0.162515 ty_m 0.257877 tz_m 2.50705 rx_m 0.343278 ry_m 0.0518252 rz_m -0.0138706 distance_m 2.52551
+frame_id 67 time_s 0.558333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187396
+tx_m 0.156863 ty_m 0.258528 tz_m 2.5067 rx_m 0.281305 ry_m 0.0483636 rz_m -0.0113405 distance_m 2.52487
+frame_id 68 time_s 0.566667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.156194
+tx_m 0.151216 ty_m 0.2585 tz_m 2.50646 rx_m 0.281574 ry_m 0.0466269 rz_m -0.0109421 distance_m 2.52429
+frame_id 69 time_s 0.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.15623
+tx_m 0.145567 ty_m 0.259143 tz_m 2.50608 rx_m 0.208449 ry_m 0.0421202 rz_m -0.00824553 distance_m 2.52365
+frame_id 70 time_s 0.583333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.118631
+tx_m 0.141457 ty_m 0.264576 tz_m 2.55889 rx_m 0.134877 ry_m 0.0356713 rz_m -0.0055673 distance_m 2.57642
+frame_id 71 time_s 0.591667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0767731
+tx_m 0.135697 ty_m 0.264553 tz_m 2.5587 rx_m 0.135231 ry_m 0.0342308 rz_m -0.00535116 distance_m 2.57592
+frame_id 72 time_s 0.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0768243
+tx_m 0.129938 ty_m 0.264532 tz_m 2.55852 rx_m 0.13557 ry_m 0.0327875 rz_m -0.00513369 distance_m 2.57544
+frame_id 73 time_s 0.608333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0768762
+tx_m 0.124731 ty_m 0.262606 tz_m 2.55335 rx_m 0.207527 ry_m 0.0549821 rz_m 0.0254253 distance_m 2.56985
+frame_id 74 time_s 0.616667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0393569
+tx_m 0.121167 ty_m 0.266775 tz_m 2.58698 rx_m 0.172903 ry_m 0.0313562 rz_m 0.0187976 distance_m 2.60352
+frame_id 75 time_s 0.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.122526
+tx_m 0.115176 ty_m 0.265373 tz_m 2.58028 rx_m 0.174569 ry_m 0.0523608 rz_m 0.0268742 distance_m 2.59645
+frame_id 76 time_s 0.633333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0185548
+tx_m 0.10937 ty_m 0.26535 tz_m 2.58008 rx_m 0.174855 ry_m 0.0507762 rz_m 0.0271434 distance_m 2.59599
+frame_id 77 time_s 0.641667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0181766
+tx_m 0.107299 ty_m 0.271052 tz_m 2.63579 rx_m 0.0851731 ry_m 0.0519496 rz_m 0.0298609 distance_m 2.65187
+frame_id 78 time_s 0.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0438546
+tx_m 0.101369 ty_m 0.271028 tz_m 2.63559 rx_m 0.0855882 ry_m 0.0506608 rz_m 0.0300107 distance_m 2.65142
+frame_id 79 time_s 0.658333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0435202
+tx_m 0.0972148 ty_m 0.273877 tz_m 2.66363 rx_m 0.0167596 ry_m 0.0546627 rz_m 0.0318392 distance_m 2.67944
+frame_id 80 time_s 0.666667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0883414
+tx_m 0.0919684 ty_m 0.273323 tz_m 2.66525 rx_m -0.0288642 ry_m -0.0279408 rz_m 0.0527323 distance_m 2.68081
+frame_id 81 time_s 0.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0323481
+tx_m 0.0793995 ty_m 0.267627 tz_m 2.61011 rx_m -0.0931899 ry_m 0.356945 rz_m 0.0184685 distance_m 2.62499
+frame_id 82 time_s 0.683333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.209628
+tx_m 0.0730979 ty_m 0.265949 tz_m 2.60067 rx_m -0.116993 ry_m 0.338802 rz_m 0.0359475 distance_m 2.61526
+frame_id 83 time_s 0.691667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143648
+tx_m 0.0705121 ty_m 0.272115 tz_m 2.66053 rx_m -0.0952002 ry_m 0.328115 rz_m 0.0471569 distance_m 2.67534
+frame_id 84 time_s 0.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187709
+tx_m 0.0649642 ty_m 0.265801 tz_m 2.59871 rx_m -0.113896 ry_m 0.371575 rz_m 0.0343943 distance_m 2.61308
+frame_id 85 time_s 0.708333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.121081
+tx_m 0.0597791 ty_m 0.265542 tz_m 2.59635 rx_m -0.112843 ry_m 0.401798 rz_m 0.0334971 distance_m 2.61058
+frame_id 86 time_s 0.716667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.149157
+tx_m 0.0581311 ty_m 0.276457 tz_m 2.71724 rx_m -0.120027 ry_m 0.29852 rz_m 0.067742 distance_m 2.73188
+frame_id 87 time_s 0.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0971065
+tx_m 0.0532579 ty_m 0.277341 tz_m 2.73392 rx_m -0.0934689 ry_m 0.346046 rz_m 0.0478569 distance_m 2.74846
+frame_id 88 time_s 0.733333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.173742
+tx_m 0.0473862 ty_m 0.276659 tz_m 2.72753 rx_m -0.136775 ry_m 0.365714 rz_m 0.0553127 distance_m 2.74193
+frame_id 89 time_s 0.741667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165065
+tx_m 0.0427817 ty_m 0.274982 tz_m 2.71805 rx_m -0.116518 ry_m 0.424826 rz_m 0.063667 distance_m 2.73225
+frame_id 90 time_s 0.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17743
+tx_m 0.0381592 ty_m 0.274846 tz_m 2.71667 rx_m -0.115964 ry_m 0.476969 rz_m 0.0624383 distance_m 2.73081
+frame_id 91 time_s 0.758333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.204601
+tx_m 0.0350049 ty_m 0.274217 tz_m 2.70981 rx_m -0.113922 ry_m 0.48105 rz_m 0.0626244 distance_m 2.72388
+frame_id 92 time_s 0.766667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.167097
+tx_m 0.0261291 ty_m 0.275763 tz_m 2.74136 rx_m -0.109424 ry_m 0.573801 rz_m 0.0302486 distance_m 2.75531
+frame_id 93 time_s 0.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.199198
+tx_m 0.0204595 ty_m 0.273472 tz_m 2.72594 rx_m -0.124577 ry_m 0.583842 rz_m 0.0491396 distance_m 2.7397
+frame_id 94 time_s 0.783333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.212197
+tx_m 0.0181184 ty_m 0.273231 tz_m 2.72267 rx_m -0.122698 ry_m 0.605425 rz_m 0.048526 distance_m 2.73641
+frame_id 95 time_s 0.791667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.162775
+tx_m 0.0135558 ty_m 0.27338 tz_m 2.72437 rx_m -0.122851 ry_m 0.641274 rz_m 0.0478981 distance_m 2.73808
+frame_id 96 time_s 0.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.192288
+tx_m 0.00927163 ty_m 0.280345 tz_m 2.80181 rx_m -0.123669 ry_m 0.640106 rz_m 0.0502371 distance_m 2.81581
+frame_id 97 time_s 0.808333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195244
+tx_m 0.00610725 ty_m 0.274986 tz_m 2.73298 rx_m -0.108221 ry_m 0.686154 rz_m 0.0281019 distance_m 2.74679
+frame_id 98 time_s 0.816667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.227141
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 99 time_s 0.825	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 100 time_s 0.833333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 101 time_s 0.841667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 102 time_s 0.85	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 103 time_s 0.858333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 104 time_s 0.866667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 105 time_s 0.875	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 106 time_s 0.883333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 107 time_s 0.891667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 108 time_s 0.9	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 109 time_s 0.908333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 110 time_s 0.916667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 111 time_s 0.925	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 112 time_s 0.933333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 113 time_s 0.941667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 114 time_s 0.95	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 115 time_s 0.958333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 116 time_s 0.966667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.412497 ty_m 0.36774 tz_m 2.71619 rx_m -0.15106 ry_m -0.629424 rz_m -0.0360337 distance_m 2.77183
+frame_id 117 time_s 0.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.278411
+tx_m 0.416465 ty_m 0.374045 tz_m 2.77345 rx_m -0.153286 ry_m -0.567039 rz_m -0.0555368 distance_m 2.82937
+frame_id 118 time_s 0.983333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.245691
+tx_m 0.403583 ty_m 0.365851 tz_m 2.70775 rx_m -0.155316 ry_m -0.593273 rz_m -0.0532086 distance_m 2.762
+frame_id 119 time_s 0.991667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.267431
+tx_m 0.401075 ty_m 0.368601 tz_m 2.72193 rx_m -0.143789 ry_m -0.5703 rz_m -0.0324696 distance_m 2.7759
+frame_id 120 time_s 1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.255469
+tx_m 0.387854 ty_m 0.36053 tz_m 2.6574 rx_m -0.144104 ry_m -0.581545 rz_m -0.030201 distance_m 2.70964
+frame_id 121 time_s 1.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.272278
+tx_m 0.390946 ty_m 0.367907 tz_m 2.70482 rx_m -0.153679 ry_m -0.524376 rz_m -0.0646071 distance_m 2.75758
+frame_id 122 time_s 1.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.242219
+tx_m 0.388044 ty_m 0.367935 tz_m 2.70637 rx_m -0.14639 ry_m -0.450865 rz_m -0.0677531 distance_m 2.7587
+frame_id 123 time_s 1.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.213016
+tx_m 0.384635 ty_m 0.36912 tz_m 2.70929 rx_m -0.139947 ry_m -0.443903 rz_m -0.0518354 distance_m 2.76124
+frame_id 124 time_s 1.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.20914
+tx_m 0.383216 ty_m 0.372131 tz_m 2.72662 rx_m -0.13313 ry_m -0.427856 rz_m -0.0371073 distance_m 2.77845
+frame_id 125 time_s 1.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.199557
+tx_m 0.376023 ty_m 0.371999 tz_m 2.71891 rx_m -0.137645 ry_m -0.423608 rz_m -0.049608 distance_m 2.76988
+frame_id 126 time_s 1.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.199353
+tx_m 0.370292 ty_m 0.371636 tz_m 2.71089 rx_m -0.138088 ry_m -0.373812 rz_m -0.0667565 distance_m 2.76119
+frame_id 127 time_s 1.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.180691
+tx_m 0.386015 ty_m 0.390876 tz_m 2.86347 rx_m -0.115641 ry_m -0.202607 rz_m -0.0802168 distance_m 2.91569
+frame_id 128 time_s 1.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0967623
+tx_m 0.372202 ty_m 0.383155 tz_m 2.79582 rx_m -0.115252 ry_m -0.220934 rz_m -0.0619636 distance_m 2.84639
+frame_id 129 time_s 1.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.108403
+tx_m 0.360947 ty_m 0.375282 tz_m 2.73382 rx_m -0.122944 ry_m -0.276021 rz_m -0.0573528 distance_m 2.78296
+frame_id 130 time_s 1.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.136616
+tx_m 0.347991 ty_m 0.367936 tz_m 2.66957 rx_m -0.120987 ry_m -0.291569 rz_m -0.0403655 distance_m 2.71718
+frame_id 131 time_s 1.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.149512
+tx_m 0.333718 ty_m 0.360414 tz_m 2.60429 rx_m -0.123569 ry_m -0.356836 rz_m -0.0217324 distance_m 2.6502
+frame_id 132 time_s 1.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.186248
+tx_m 0.336887 ty_m 0.368908 tz_m 2.66547 rx_m -0.115864 ry_m -0.242365 rz_m -0.0427014 distance_m 2.71189
+frame_id 133 time_s 1.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.128189
+tx_m 0.331122 ty_m 0.36846 tz_m 2.6616 rx_m -0.112498 ry_m -0.217796 rz_m -0.0430952 distance_m 2.70731
+frame_id 134 time_s 1.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.117469
+tx_m 0.334071 ty_m 0.378702 tz_m 2.7303 rx_m -0.085413 ry_m -0.0892994 rz_m -0.0542157 distance_m 2.77661
+frame_id 135 time_s 1.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0556057
+tx_m 0.327314 ty_m 0.376448 tz_m 2.71393 rx_m -0.0177161 ry_m 0.0128549 rz_m -0.0639059 distance_m 2.7594
+frame_id 136 time_s 1.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.000464251
+tx_m 0.322772 ty_m 0.37899 tz_m 2.72711 rx_m -0.0286783 ry_m 0.00367087 rz_m -0.0498562 distance_m 2.77218
+frame_id 137 time_s 1.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0067633
+tx_m 0.312475 ty_m 0.372336 tz_m 2.67907 rx_m 0.0778393 ry_m 0.0511267 rz_m -0.0579338 distance_m 2.72281
+frame_id 138 time_s 1.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0480135
+tx_m 0.305747 ty_m 0.372748 tz_m 2.67185 rx_m -0.0536201 ry_m -0.0257118 rz_m -0.0326605 distance_m 2.715
+frame_id 139 time_s 1.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0251141
+tx_m 0.298679 ty_m 0.370592 tz_m 2.65654 rx_m -0.0044626 ry_m 0.0205567 rz_m -0.0386932 distance_m 2.69884
+frame_id 140 time_s 1.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00717453
+tx_m 0.287989 ty_m 0.364282 tz_m 2.60609 rx_m -0.0664585 ry_m -0.0464612 rz_m -0.0296691 distance_m 2.64714
+frame_id 141 time_s 1.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0382035
+tx_m 0.283204 ty_m 0.366353 tz_m 2.61596 rx_m -0.070648 ry_m -0.0571842 rz_m -0.0165617 distance_m 2.65663
+frame_id 142 time_s 1.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0432489
+tx_m 0.275636 ty_m 0.362439 tz_m 2.58785 rx_m 0.0201577 ry_m 0.0318139 rz_m -0.0270991 distance_m 2.62761
+frame_id 143 time_s 1.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0212597
+tx_m 0.272725 ty_m 0.365253 tz_m 2.60824 rx_m -0.0317558 ry_m -0.000470647 rz_m -0.0224301 distance_m 2.64778
+frame_id 144 time_s 1.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00959812
+tx_m 0.266865 ty_m 0.365261 tz_m 2.60837 rx_m -0.0319326 ry_m -0.000696199 rz_m -0.0224407 distance_m 2.6473
+frame_id 145 time_s 1.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00967001
+tx_m 0.260325 ty_m 0.363826 tz_m 2.58793 rx_m 0.0596398 ry_m 0.0447642 rz_m -0.00613197 distance_m 2.62632
+frame_id 146 time_s 1.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0419763
+tx_m 0.254478 ty_m 0.363788 tz_m 2.58773 rx_m 0.0601658 ry_m 0.0438627 rz_m -0.00602792 distance_m 2.62553
+frame_id 147 time_s 1.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0420704
+tx_m 0.248634 ty_m 0.363751 tz_m 2.58752 rx_m 0.0606822 ry_m 0.0429539 rz_m -0.00592171 distance_m 2.62476
+frame_id 148 time_s 1.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0421525
+tx_m 0.243981 ty_m 0.364504 tz_m 2.59261 rx_m 0.221895 ry_m 0.0589911 rz_m -0.0381804 distance_m 2.62945
+frame_id 149 time_s 1.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.120496
+tx_m 0.238119 ty_m 0.364454 tz_m 2.5923 rx_m 0.222289 ry_m 0.0574792 rz_m -0.0378408 distance_m 2.6286
+frame_id 150 time_s 1.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.12056
+tx_m 0.228859 ty_m 0.356827 tz_m 2.53822 rx_m 0.270994 ry_m 0.0587863 rz_m -0.0393406 distance_m 2.57338
+frame_id 151 time_s 1.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.149895
+tx_m 0.223122 ty_m 0.356795 tz_m 2.53793 rx_m 0.272799 ry_m 0.0572504 rz_m -0.0390039 distance_m 2.57258
+frame_id 152 time_s 1.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.150681
+tx_m 0.219388 ty_m 0.360733 tz_m 2.56091 rx_m 0.194963 ry_m 0.0564215 rz_m -0.0123546 distance_m 2.59548
+frame_id 153 time_s 1.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110112
+tx_m 0.213602 ty_m 0.360686 tz_m 2.56062 rx_m 0.195346 ry_m 0.0549536 rz_m -0.0120481 distance_m 2.59471
+frame_id 154 time_s 1.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110169
+tx_m 0.207819 ty_m 0.36064 tz_m 2.56035 rx_m 0.195719 ry_m 0.0534841 rz_m -0.0117403 distance_m 2.59396
+frame_id 155 time_s 1.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110217
+tx_m 0.201762 ty_m 0.359913 tz_m 2.5551 rx_m 0.266047 ry_m 0.0720241 rz_m -0.0069128 distance_m 2.5882
+frame_id 156 time_s 1.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0487281
+tx_m 0.195979 ty_m 0.359092 tz_m 2.55455 rx_m 0.196979 ry_m 0.0689941 rz_m -0.00368212 distance_m 2.5871
+frame_id 157 time_s 1.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0294455
+tx_m 0.190211 ty_m 0.359045 tz_m 2.55426 rx_m 0.197354 ry_m 0.0675035 rz_m -0.00337171 distance_m 2.58638
+frame_id 158 time_s 1.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0288431
+tx_m 0.182022 ty_m 0.351593 tz_m 2.50104 rx_m 0.252286 ry_m 0.0674069 rz_m -0.00524322 distance_m 2.53218
+frame_id 159 time_s 1.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0454073
+tx_m 0.176378 ty_m 0.351548 tz_m 2.50076 rx_m 0.252593 ry_m 0.0658138 rz_m -0.0048585 distance_m 2.5315
+frame_id 160 time_s 1.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0451143
+tx_m 0.169276 ty_m 0.349571 tz_m 2.48171 rx_m 0.262366 ry_m 0.049274 rz_m 0.0109693 distance_m 2.51192
+frame_id 161 time_s 1.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.190703
+tx_m 0.16368 ty_m 0.349532 tz_m 2.48147 rx_m 0.262618 ry_m 0.0476735 rz_m 0.0113685 distance_m 2.5113
+frame_id 162 time_s 1.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.190759
+tx_m 0.15808 ty_m 0.349468 tz_m 2.48111 rx_m 0.262133 ry_m 0.0460371 rz_m 0.0119395 distance_m 2.51058
+frame_id 163 time_s 1.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.188519
+tx_m 0.152492 ty_m 0.349457 tz_m 2.48101 rx_m 0.263098 ry_m 0.0444708 rz_m 0.01217 distance_m 2.51013
+frame_id 164 time_s 1.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.190896
+tx_m 0.151185 ty_m 0.356623 tz_m 2.52686 rx_m 0.210824 ry_m 0.0582165 rz_m 0.0222787 distance_m 2.55638
+frame_id 165 time_s 1.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0483109
+tx_m 0.145489 ty_m 0.356584 tz_m 2.52662 rx_m 0.211099 ry_m 0.0566872 rz_m 0.0226139 distance_m 2.5558
+frame_id 166 time_s 1.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0482712
+tx_m 0.139796 ty_m 0.356547 tz_m 2.52638 rx_m 0.211365 ry_m 0.055163 rz_m 0.0229492 distance_m 2.55525
+frame_id 167 time_s 1.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0481974
+tx_m 0.134094 ty_m 0.356428 tz_m 2.52575 rx_m 0.20905 ry_m 0.0535276 rz_m 0.0238335 distance_m 2.5543
+frame_id 168 time_s 1.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0483841
+tx_m 0.129254 ty_m 0.356549 tz_m 2.5315 rx_m 0.193881 ry_m 0.0328307 rz_m 0.041246 distance_m 2.55975
+frame_id 169 time_s 1.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.170735
+tx_m 0.125584 ty_m 0.360299 tz_m 2.55809 rx_m 0.164087 ry_m 0.0290299 rz_m 0.0426515 distance_m 2.58639
+frame_id 170 time_s 1.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.152219
+tx_m 0.119825 ty_m 0.360272 tz_m 2.55793 rx_m 0.1643 ry_m 0.0276164 rz_m 0.0429291 distance_m 2.58595
+frame_id 171 time_s 1.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.15224
+tx_m 0.11601 ty_m 0.364035 tz_m 2.58474 rx_m 0.12847 ry_m 0.0227844 rz_m 0.0447799 distance_m 2.61282
+frame_id 172 time_s 1.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.127178
+tx_m 0.111953 ty_m 0.366248 tz_m 2.60558 rx_m 0.0883827 ry_m 0.0431393 rz_m 0.0541171 distance_m 2.63358
+frame_id 173 time_s 1.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.020982
+tx_m 0.105281 ty_m 0.358651 tz_m 2.55112 rx_m 0.160998 ry_m 0.0466982 rz_m 0.0513656 distance_m 2.57835
+frame_id 174 time_s 1.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0421816
+tx_m 0.101321 ty_m 0.362327 tz_m 2.57749 rx_m 0.121763 ry_m 0.0448367 rz_m 0.0535283 distance_m 2.60481
+frame_id 175 time_s 1.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00619938
+tx_m 0.096162 ty_m 0.362172 tz_m 2.58223 rx_m -0.378268 ry_m 0.068333 rz_m 0.077421 distance_m 2.60928
+frame_id 176 time_s 1.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.106287
+tx_m 0.0913065 ty_m 0.364294 tz_m 2.59729 rx_m -0.100613 ry_m -0.0247685 rz_m 0.0644646 distance_m 2.6243
+frame_id 177 time_s 1.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.141186
+tx_m 0.0867029 ty_m 0.36268 tz_m 2.59026 rx_m -0.0975029 ry_m -0.149393 rz_m 0.0880107 distance_m 2.61696
+frame_id 178 time_s 1.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0941205
+tx_m 0.0818751 ty_m 0.366768 tz_m 2.61504 rx_m -0.146065 ry_m 0.28633 rz_m 0.0435086 distance_m 2.6419
+frame_id 179 time_s 1.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.264876
+tx_m 0.0757696 ty_m 0.36264 tz_m 2.5905 rx_m -0.164606 ry_m 0.313029 rz_m 0.0578872 distance_m 2.61685
+frame_id 180 time_s 1.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143942
+tx_m 0.0713154 ty_m 0.362539 tz_m 2.58978 rx_m -0.160538 ry_m 0.380574 rz_m 0.0542506 distance_m 2.61601
+frame_id 181 time_s 1.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17849
+tx_m 0.0661609 ty_m 0.360508 tz_m 2.57991 rx_m -0.140299 ry_m 0.348491 rz_m 0.0651826 distance_m 2.60582
+frame_id 182 time_s 1.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.211461
+tx_m 0.0619619 ty_m 0.357791 tz_m 2.56505 rx_m -0.162128 ry_m 0.36913 rz_m 0.0812203 distance_m 2.59063
+frame_id 183 time_s 1.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147563
+tx_m 0.0575701 ty_m 0.35761 tz_m 2.56372 rx_m -0.160099 ry_m 0.426428 rz_m 0.0788221 distance_m 2.58918
+frame_id 184 time_s 1.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.181242
+tx_m 0.0532882 ty_m 0.368326 tz_m 2.6412 rx_m -0.182006 ry_m 0.355945 rz_m 0.0747443 distance_m 2.66729
+frame_id 185 time_s 1.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.157365
+tx_m 0.053005 ty_m 0.390313 tz_m 2.81467 rx_m -0.137738 ry_m -0.00438499 rz_m 0.123062 distance_m 2.8421
+frame_id 186 time_s 1.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.854688
+tx_m 0.0463877 ty_m 0.371608 tz_m 2.68411 rx_m -0.100512 ry_m -0.335783 rz_m 0.163412 distance_m 2.71011
+frame_id 187 time_s 1.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143532
+tx_m 0.0419504 ty_m 0.373968 tz_m 2.69575 rx_m -0.0894014 ry_m -0.394513 rz_m 0.15811 distance_m 2.72189
+frame_id 188 time_s 1.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.179248
+tx_m 0.0353907 ty_m 0.364214 tz_m 2.62684 rx_m -0.157036 ry_m 0.46687 rz_m 0.0802929 distance_m 2.6522
+frame_id 189 time_s 1.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.197825
+tx_m 0.0316993 ty_m 0.364538 tz_m 2.62881 rx_m -0.156661 ry_m 0.533445 rz_m 0.0777396 distance_m 2.65416
+frame_id 190 time_s 1.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.212352
+tx_m 0.0270873 ty_m 0.354427 tz_m 2.56054 rx_m -0.0838934 ry_m -0.544669 rz_m 0.157984 distance_m 2.5851
+frame_id 191 time_s 1.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.239499
+tx_m 0.0238963 ty_m 0.36849 tz_m 2.67874 rx_m -0.173045 ry_m 0.498981 rz_m 0.101135 distance_m 2.70407
+frame_id 192 time_s 1.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195698
+tx_m 0.0193765 ty_m 0.368195 tz_m 2.67648 rx_m -0.171889 ry_m 0.54318 rz_m 0.100475 distance_m 2.70176
+frame_id 193 time_s 1.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.220671
+tx_m 0.01646 ty_m 0.369363 tz_m 2.68401 rx_m -0.0908366 ry_m -0.546812 rz_m 0.176485 distance_m 2.70935
+frame_id 194 time_s 1.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.228468
+tx_m 0.012013 ty_m 0.369085 tz_m 2.68176 rx_m -0.0902423 ry_m -0.588083 rz_m 0.182036 distance_m 2.70706
+frame_id 195 time_s 1.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.263078
+tx_m 0.00799685 ty_m 0.369342 tz_m 2.69065 rx_m -0.179996 ry_m 0.636507 rz_m 0.0874294 distance_m 2.71589
+frame_id 196 time_s 1.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.246016
+tx_m 0.00439029 ty_m 0.379705 tz_m 2.77166 rx_m -0.18123 ry_m 0.651899 rz_m 0.0903425 distance_m 2.79755
+frame_id 197 time_s 1.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.234281
+tx_m 0.00453102 ty_m 0.380632 tz_m 2.7696 rx_m -0.0963523 ry_m -0.711926 rz_m 0.129283 distance_m 2.79563
+frame_id 198 time_s 1.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.197101
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 199 time_s 1.65833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 200 time_s 1.66667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 201 time_s 1.675	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 202 time_s 1.68333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 203 time_s 1.69167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 204 time_s 1.7	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 205 time_s 1.70833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 206 time_s 1.71667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 207 time_s 1.725	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 208 time_s 1.73333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 209 time_s 1.74167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 210 time_s 1.75	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 211 time_s 1.75833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 212 time_s 1.76667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 213 time_s 1.775	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 214 time_s 1.78333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.434685 ty_m 0.504694 tz_m 2.8396 rx_m -0.157294 ry_m -0.617834 rz_m 0.0336762 distance_m 2.91667
+frame_id 215 time_s 1.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.251423
+tx_m 0.407781 ty_m 0.47114 tz_m 2.68222 rx_m -0.226263 ry_m -0.575142 rz_m -0.124572 distance_m 2.75364
+frame_id 216 time_s 1.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.272469
+tx_m 0.407719 ty_m 0.474217 tz_m 2.70653 rx_m -0.231828 ry_m -0.479887 rz_m -0.17825 distance_m 2.77784
+frame_id 217 time_s 1.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.234064
+tx_m 0.404007 ty_m 0.475962 tz_m 2.70683 rx_m -0.235238 ry_m -0.499557 rz_m -0.175756 distance_m 2.77789
+frame_id 218 time_s 1.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241511
+tx_m 0.391856 ty_m 0.466358 tz_m 2.64623 rx_m -0.222167 ry_m -0.472202 rz_m -0.15612 distance_m 2.71544
+frame_id 219 time_s 1.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.240495
+tx_m 0.403577 ty_m 0.484652 tz_m 2.74743 rx_m -0.214977 ry_m -0.420242 rz_m -0.162646 distance_m 2.81889
+frame_id 220 time_s 1.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.203401
+tx_m 0.395382 ty_m 0.479552 tz_m 2.71774 rx_m -0.206398 ry_m -0.37922 rz_m -0.160975 distance_m 2.7879
+frame_id 221 time_s 1.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.191264
+tx_m 0.384717 ty_m 0.472368 tz_m 2.66525 rx_m -0.203475 ry_m -0.370298 rz_m -0.155579 distance_m 2.73399
+frame_id 222 time_s 1.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.194872
+tx_m 0.383034 ty_m 0.474877 tz_m 2.68031 rx_m -0.197647 ry_m -0.339811 rz_m -0.156315 distance_m 2.74887
+frame_id 223 time_s 1.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.179878
+tx_m 0.376722 ty_m 0.472793 tz_m 2.6678 rx_m -0.190204 ry_m -0.305793 rz_m -0.154599 distance_m 2.73544
+frame_id 224 time_s 1.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.166825
+tx_m 0.36699 ty_m 0.465624 tz_m 2.61937 rx_m -0.193448 ry_m -0.357728 rz_m -0.131595 distance_m 2.68562
+frame_id 225 time_s 1.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.19483
+tx_m 0.37035 ty_m 0.476656 tz_m 2.67643 rx_m -0.178387 ry_m -0.271565 rz_m -0.136615 distance_m 2.74366
+frame_id 226 time_s 1.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.15007
+tx_m 0.363042 ty_m 0.4738 tz_m 2.6567 rx_m -0.170539 ry_m -0.211575 rz_m -0.157549 distance_m 2.72293
+frame_id 227 time_s 1.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.126974
+tx_m 0.359494 ty_m 0.475888 tz_m 2.66442 rx_m -0.153184 ry_m -0.160846 rz_m -0.144807 distance_m 2.73035
+frame_id 228 time_s 1.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102757
+tx_m 0.356121 ty_m 0.478448 tz_m 2.67821 rx_m -0.159709 ry_m -0.185889 rz_m -0.13973 distance_m 2.74382
+frame_id 229 time_s 1.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112613
+tx_m 0.336706 ty_m 0.458304 tz_m 2.55829 rx_m -0.177799 ry_m -0.273483 rz_m -0.127552 distance_m 2.62074
+frame_id 230 time_s 1.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164653
+tx_m 0.33156 ty_m 0.458743 tz_m 2.55206 rx_m -0.168029 ry_m -0.263309 rz_m -0.0986803 distance_m 2.61408
+frame_id 231 time_s 1.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158976
+tx_m 0.327971 ty_m 0.46041 tz_m 2.55856 rx_m -0.156317 ry_m -0.215598 rz_m -0.0910437 distance_m 2.62026
+frame_id 232 time_s 1.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.134991
+tx_m 0.338242 ty_m 0.479917 tz_m 2.67084 rx_m -0.0602283 ry_m -0.00550132 rz_m -0.15685 distance_m 2.73461
+frame_id 233 time_s 1.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0199083
+tx_m 0.334348 ty_m 0.483454 tz_m 2.68196 rx_m -0.0517359 ry_m -0.00162976 rz_m -0.127752 distance_m 2.74562
+frame_id 234 time_s 1.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0154109
+tx_m 0.323688 ty_m 0.474446 tz_m 2.63291 rx_m 0.0461067 ry_m 0.0331294 rz_m -0.136447 distance_m 2.69483
+frame_id 235 time_s 1.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0347433
+tx_m 0.313042 ty_m 0.465288 tz_m 2.58203 rx_m 0.118996 ry_m 0.0420425 rz_m -0.137796 distance_m 2.64223
+frame_id 236 time_s 1.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0725716
+tx_m 0.30662 ty_m 0.465145 tz_m 2.57648 rx_m 0.0151824 ry_m 0.0254216 rz_m -0.129098 distance_m 2.63602
+frame_id 237 time_s 1.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0202479
+tx_m 0.298157 ty_m 0.45951 tz_m 2.54187 rx_m 0.0841077 ry_m 0.0388733 rz_m -0.120074 distance_m 2.60022
+frame_id 238 time_s 1.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0570277
+tx_m 0.300577 ty_m 0.470813 tz_m 2.59991 rx_m 0.107421 ry_m 0.0406373 rz_m -0.121363 distance_m 2.65924
+frame_id 239 time_s 1.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0658834
+tx_m 0.294693 ty_m 0.470763 tz_m 2.59971 rx_m 0.107865 ry_m 0.0395713 rz_m -0.121163 distance_m 2.65837
+frame_id 240 time_s 2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0659622
+tx_m 0.289128 ty_m 0.471353 tz_m 2.60221 rx_m 0.106831 ry_m 0.0387815 rz_m -0.118221 distance_m 2.66032
+frame_id 241 time_s 2.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0652601
+tx_m 0.276949 ty_m 0.457895 tz_m 2.52505 rx_m 0.255116 ry_m 0.0439922 rz_m -0.125623 distance_m 2.58113
+frame_id 242 time_s 2.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.144876
+tx_m 0.2706 ty_m 0.456225 tz_m 2.51249 rx_m 0.271667 ry_m 0.0459835 rz_m -0.114454 distance_m 2.56787
+frame_id 243 time_s 2.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.154788
+tx_m 0.265147 ty_m 0.456679 tz_m 2.51433 rx_m 0.271493 ry_m 0.0451217 rz_m -0.111799 distance_m 2.56919
+frame_id 244 time_s 2.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.154405
+tx_m 0.255558 ty_m 0.447238 tz_m 2.46305 rx_m 0.31144 ry_m 0.0440686 rz_m -0.113224 distance_m 2.51634
+frame_id 245 time_s 2.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.181616
+tx_m 0.249723 ty_m 0.447386 tz_m 2.46017 rx_m 0.260163 ry_m 0.0424309 rz_m -0.110522 distance_m 2.51296
+frame_id 246 time_s 2.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155143
+tx_m 0.245624 ty_m 0.450799 tz_m 2.47465 rx_m 0.255116 ry_m 0.0444384 rz_m -0.0966972 distance_m 2.52734
+frame_id 247 time_s 2.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.150842
+tx_m 0.244386 ty_m 0.458233 tz_m 2.51212 rx_m 0.232706 ry_m 0.0453395 rz_m -0.0849918 distance_m 2.56524
+frame_id 248 time_s 2.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.135077
+tx_m 0.238275 ty_m 0.453217 tz_m 2.48542 rx_m 0.25981 ry_m 0.0448685 rz_m -0.0867601 distance_m 2.53761
+frame_id 249 time_s 2.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151954
+tx_m 0.232654 ty_m 0.453161 tz_m 2.48517 rx_m 0.260139 ry_m 0.0434031 rz_m -0.0863428 distance_m 2.53684
+frame_id 250 time_s 2.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.152046
+tx_m 0.227182 ty_m 0.453483 tz_m 2.48646 rx_m 0.259902 ry_m 0.0423518 rz_m -0.0843162 distance_m 2.53767
+frame_id 251 time_s 2.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151686
+tx_m 0.221562 ty_m 0.45343 tz_m 2.48623 rx_m 0.260216 ry_m 0.0408844 rz_m -0.0838973 distance_m 2.53693
+frame_id 252 time_s 2.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151768
+tx_m 0.215944 ty_m 0.453378 tz_m 2.486 rx_m 0.260523 ry_m 0.0394158 rz_m -0.0834774 distance_m 2.53621
+frame_id 253 time_s 2.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151867
+tx_m 0.209361 ty_m 0.448884 tz_m 2.45814 rx_m 0.23781 ry_m 0.043607 rz_m -0.0599728 distance_m 2.50755
+frame_id 254 time_s 2.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143576
+tx_m 0.203917 ty_m 0.449788 tz_m 2.45927 rx_m 0.292901 ry_m 0.0434918 rz_m -0.0617998 distance_m 2.50837
+frame_id 255 time_s 2.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172411
+tx_m 0.198361 ty_m 0.449737 tz_m 2.45904 rx_m 0.293172 ry_m 0.0419705 rz_m -0.0613363 distance_m 2.50768
+frame_id 256 time_s 2.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172493
+tx_m 0.192808 ty_m 0.449687 tz_m 2.45881 rx_m 0.293436 ry_m 0.0404484 rz_m -0.0608719 distance_m 2.50702
+frame_id 257 time_s 2.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17256
+tx_m 0.187295 ty_m 0.449759 tz_m 2.45908 rx_m 0.293553 ry_m 0.0390692 rz_m -0.059892 distance_m 2.50688
+frame_id 258 time_s 2.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172496
+tx_m 0.184282 ty_m 0.454223 tz_m 2.48374 rx_m 0.276199 ry_m 0.0373251 rz_m -0.0593777 distance_m 2.53165
+frame_id 259 time_s 2.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.160038
+tx_m 0.182045 ty_m 0.460871 tz_m 2.52041 rx_m 0.187178 ry_m 0.0360958 rz_m -0.0445862 distance_m 2.56866
+frame_id 260 time_s 2.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110279
+tx_m 0.177219 ty_m 0.463814 tz_m 2.53251 rx_m 0.182933 ry_m 0.0369327 rz_m -0.0328245 distance_m 2.58073
+frame_id 261 time_s 2.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107173
+tx_m 0.172327 ty_m 0.465277 tz_m 2.54449 rx_m 0.177078 ry_m 0.0376432 rz_m -0.0209816 distance_m 2.59241
+frame_id 262 time_s 2.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103242
+tx_m 0.166618 ty_m 0.466072 tz_m 2.54485 rx_m 0.242669 ry_m 0.039528 rz_m -0.0230851 distance_m 2.59254
+frame_id 263 time_s 2.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.136012
+tx_m 0.161615 ty_m 0.467447 tz_m 2.55636 rx_m 0.23874 ry_m 0.0407487 rz_m -0.0113435 distance_m 2.60376
+frame_id 264 time_s 2.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132886
+tx_m 0.15585 ty_m 0.467403 tz_m 2.55615 rx_m 0.238961 ry_m 0.0392922 rz_m -0.0109467 distance_m 2.6032
+frame_id 265 time_s 2.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132913
+tx_m 0.152426 ty_m 0.472368 tz_m 2.58338 rx_m 0.214532 ry_m 0.036866 rz_m -0.00975189 distance_m 2.63063
+frame_id 266 time_s 2.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.118215
+tx_m 0.14893 ty_m 0.477439 tz_m 2.61119 rx_m 0.188006 ry_m 0.0342377 rz_m -0.00852875 distance_m 2.65866
+frame_id 267 time_s 2.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102949
+tx_m 0.143044 ty_m 0.4774 tz_m 2.61102 rx_m 0.188226 ry_m 0.0328791 rz_m -0.00819809 distance_m 2.65815
+frame_id 268 time_s 2.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10298
+tx_m 0.13716 ty_m 0.477363 tz_m 2.61084 rx_m 0.188437 ry_m 0.0315197 rz_m -0.00786659 distance_m 2.65767
+frame_id 269 time_s 2.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103014
+tx_m 0.131115 ty_m 0.475548 tz_m 2.60494 rx_m 0.188572 ry_m 0.047729 rz_m -0.000170503 distance_m 2.65124
+frame_id 270 time_s 2.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0166569
+tx_m 0.128281 ty_m 0.481332 tz_m 2.64065 rx_m 0.143724 ry_m 0.0261664 rz_m 0.0187833 distance_m 2.68723
+frame_id 271 time_s 2.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.114864
+tx_m 0.122327 ty_m 0.481224 tz_m 2.64018 rx_m 0.141991 ry_m 0.0247039 rz_m 0.0194448 distance_m 2.68647
+frame_id 272 time_s 2.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.109003
+tx_m 0.11638 ty_m 0.481194 tz_m 2.64004 rx_m 0.142173 ry_m 0.023455 rz_m 0.0197144 distance_m 2.68606
+frame_id 273 time_s 2.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.109045
+tx_m 0.11241 ty_m 0.486479 tz_m 2.66907 rx_m 0.108667 ry_m 0.0196071 rz_m 0.0210339 distance_m 2.71537
+frame_id 274 time_s 2.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0915001
+tx_m 0.108208 ty_m 0.489864 tz_m 2.69179 rx_m 0.066595 ry_m 0.0405915 rz_m 0.0300773 distance_m 2.73814
+frame_id 275 time_s 2.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0475928
+tx_m 0.10296 ty_m 0.490136 tz_m 2.69728 rx_m 0.0446084 ry_m 0.00823087 rz_m 0.0496888 distance_m 2.74338
+frame_id 276 time_s 2.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0812204
+tx_m 0.0984032 ty_m 0.490067 tz_m 2.69692 rx_m 0.0385722 ry_m 0.00783392 rz_m 0.0503662 distance_m 2.74285
+frame_id 277 time_s 2.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0728426
+tx_m 0.0920704 ty_m 0.484814 tz_m 2.66787 rx_m 0.0806212 ry_m 0.0141827 rz_m 0.0486248 distance_m 2.71312
+frame_id 278 time_s 2.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10029
+tx_m 0.0895213 ty_m 0.495352 tz_m 2.72601 rx_m -0.0215334 ry_m -0.00388182 rz_m 0.0531987 distance_m 2.7721
+frame_id 279 time_s 2.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0480387
+tx_m 0.0850024 ty_m 0.499021 tz_m 2.75029 rx_m -0.0991276 ry_m 0.0386493 rz_m 0.0605129 distance_m 2.79648
+frame_id 280 time_s 2.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.119732
+tx_m 0.0794285 ty_m 0.499256 tz_m 2.7519 rx_m -0.171716 ry_m 0.180587 rz_m 0.0494761 distance_m 2.79795
+frame_id 281 time_s 2.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164132
+tx_m 0.0743445 ty_m 0.497817 tz_m 2.74797 rx_m -0.215892 ry_m 0.260212 rz_m 0.0599901 distance_m 2.79369
+frame_id 282 time_s 2.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0864702
+tx_m 0.0705356 ty_m 0.508907 tz_m 2.80944 rx_m -0.15921 ry_m -0.110866 rz_m 0.0759379 distance_m 2.85603
+frame_id 283 time_s 2.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.887217
+tx_m 0.0627917 ty_m 0.483235 tz_m 2.6716 rx_m -0.14716 ry_m -0.354114 rz_m 0.115299 distance_m 2.71567
+frame_id 284 time_s 2.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164458
+tx_m 0.0556178 ty_m 0.472957 tz_m 2.6153 rx_m -0.210267 ry_m 0.516382 rz_m 0.0271681 distance_m 2.65831
+frame_id 285 time_s 2.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.226539
+tx_m 0.051941 ty_m 0.470592 tz_m 2.6055 rx_m -0.148989 ry_m -0.482885 rz_m 0.127171 distance_m 2.64816
+frame_id 286 time_s 2.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.262603
+tx_m 0.048589 ty_m 0.481057 tz_m 2.66763 rx_m -0.150595 ry_m -0.441009 rz_m 0.125006 distance_m 2.71109
+frame_id 287 time_s 2.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.23225
+tx_m 0.045474 ty_m 0.489421 tz_m 2.72195 rx_m -0.131884 ry_m -0.402523 rz_m 0.14054 distance_m 2.76597
+frame_id 288 time_s 2.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.177079
+tx_m 0.0410538 ty_m 0.49071 tz_m 2.72907 rx_m -0.132493 ry_m -0.44955 rz_m 0.145434 distance_m 2.77314
+frame_id 289 time_s 2.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.194555
+tx_m 0.0349457 ty_m 0.47775 tz_m 2.6618 rx_m -0.210949 ry_m 0.562829 rz_m 0.0548902 distance_m 2.70456
+frame_id 290 time_s 2.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.231579
+tx_m 0.0308324 ty_m 0.474193 tz_m 2.64555 rx_m -0.225051 ry_m 0.574423 rz_m 0.0726989 distance_m 2.68788
+frame_id 291 time_s 2.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241257
+tx_m 0.0270959 ty_m 0.485753 tz_m 2.71421 rx_m -0.225506 ry_m 0.573652 rz_m 0.0762983 distance_m 2.75746
+frame_id 292 time_s 2.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.22749
+tx_m 0.0222449 ty_m 0.475679 tz_m 2.65847 rx_m -0.207517 ry_m 0.656302 rz_m 0.0511425 distance_m 2.70078
+frame_id 293 time_s 2.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.284274
+tx_m 0.0197488 ty_m 0.48691 tz_m 2.72528 rx_m -0.207335 ry_m 0.621901 rz_m 0.0556567 distance_m 2.76851
+frame_id 294 time_s 2.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.222769
+tx_m 0.0149245 ty_m 0.483645 tz_m 2.71078 rx_m -0.221472 ry_m 0.648844 rz_m 0.0741458 distance_m 2.75363
+frame_id 295 time_s 2.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.246583
+tx_m 0.0118085 ty_m 0.482192 tz_m 2.70553 rx_m -0.101443 ry_m -0.633228 rz_m 0.207458 distance_m 2.74819
+frame_id 296 time_s 2.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.19911
+tx_m 0.00733941 ty_m 0.481781 tz_m 2.70878 rx_m -0.219853 ry_m 0.68273 rz_m 0.0736568 distance_m 2.7513
+frame_id 297 time_s 2.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.262435
+tx_m 0.00288284 ty_m 0.500049 tz_m 2.80809 rx_m -0.214088 ry_m 0.694192 rz_m 0.0443512 distance_m 2.85227
+frame_id 298 time_s 2.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.248524
+tx_m -0.000205884 ty_m 0.493837 tz_m 2.76533 rx_m -0.189945 ry_m 0.743917 rz_m -0.0132241 distance_m 2.80908
+frame_id 299 time_s 2.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.247309
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 300 time_s 2.5	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 301 time_s 2.50833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 302 time_s 2.51667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 303 time_s 2.525	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 304 time_s 2.53333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 305 time_s 2.54167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 306 time_s 2.55	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 307 time_s 2.55833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 308 time_s 2.56667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 309 time_s 2.575	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 310 time_s 2.58333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 311 time_s 2.59167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 312 time_s 2.6	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 313 time_s 2.60833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 314 time_s 2.61667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 315 time_s 2.625	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 316 time_s 2.63333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.41749 ty_m 0.274142 tz_m 2.76097 rx_m -0.0872057 ry_m -0.625936 rz_m 0.0213688 distance_m 2.80578
+frame_id 317 time_s 2.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.264925
+tx_m 0.418635 ty_m 0.276146 tz_m 2.79467 rx_m -0.107335 ry_m -0.566449 rz_m -0.0303483 distance_m 2.83932
+frame_id 318 time_s 2.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.238828
+tx_m 0.41072 ty_m 0.273112 tz_m 2.76246 rx_m -0.118183 ry_m -0.523114 rz_m -0.0639265 distance_m 2.80614
+frame_id 319 time_s 2.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.229234
+tx_m 0.394681 ty_m 0.264899 tz_m 2.67977 rx_m -0.121332 ry_m -0.496927 rz_m -0.078062 distance_m 2.7216
+frame_id 320 time_s 2.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.233467
+tx_m 0.394063 ty_m 0.266369 tz_m 2.69644 rx_m -0.120736 ry_m -0.489474 rz_m -0.0786921 distance_m 2.73807
+frame_id 321 time_s 2.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.227555
+tx_m 0.387446 ty_m 0.265113 tz_m 2.68216 rx_m -0.117408 ry_m -0.462568 rz_m -0.0771787 distance_m 2.72294
+frame_id 322 time_s 2.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.218922
+tx_m 0.389417 ty_m 0.26987 tz_m 2.71733 rx_m -0.106903 ry_m -0.469394 rz_m -0.046548 distance_m 2.75832
+frame_id 323 time_s 2.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.215136
+tx_m 0.382696 ty_m 0.269243 tz_m 2.70238 rx_m -0.109012 ry_m -0.428255 rz_m -0.0615459 distance_m 2.74259
+frame_id 324 time_s 2.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.201133
+tx_m 0.377426 ty_m 0.268818 tz_m 2.69755 rx_m -0.105475 ry_m -0.391843 rz_m -0.0613545 distance_m 2.73706
+frame_id 325 time_s 2.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.186613
+tx_m 0.364927 ty_m 0.263189 tz_m 2.63445 rx_m -0.106711 ry_m -0.410415 rz_m -0.0588822 distance_m 2.6726
+frame_id 326 time_s 2.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.203709
+tx_m 0.370572 ty_m 0.270059 tz_m 2.7035 rx_m -0.104244 ry_m -0.33163 rz_m -0.0768545 distance_m 2.74211
+frame_id 327 time_s 2.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.160679
+tx_m 0.367299 ty_m 0.271781 tz_m 2.71353 rx_m -0.0959756 ry_m -0.290647 rz_m -0.0630823 distance_m 2.75173
+frame_id 328 time_s 2.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.141536
+tx_m 0.36176 ty_m 0.271053 tz_m 2.70691 rx_m -0.0906946 ry_m -0.239787 rz_m -0.06644 distance_m 2.74439
+frame_id 329 time_s 2.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.120102
+tx_m 0.347344 ty_m 0.264337 tz_m 2.63198 rx_m -0.0918975 ry_m -0.252239 rz_m -0.0633631 distance_m 2.66792
+frame_id 330 time_s 2.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132687
+tx_m 0.341651 ty_m 0.264615 tz_m 2.63371 rx_m -0.0918573 ry_m -0.254616 rz_m -0.0611318 distance_m 2.66893
+frame_id 331 time_s 2.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.133473
+tx_m 0.339769 ty_m 0.26668 tz_m 2.64839 rx_m -0.0860927 ry_m -0.227446 rz_m -0.0497696 distance_m 2.68338
+frame_id 332 time_s 2.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.1192
+tx_m 0.344084 ty_m 0.273185 tz_m 2.71365 rx_m -0.0637731 ry_m -0.0848199 rz_m -0.0724254 distance_m 2.74899
+frame_id 333 time_s 2.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.050311
+tx_m 0.344594 ty_m 0.27963 tz_m 2.76844 rx_m 0.0235544 ry_m 0.0393626 rz_m -0.082256 distance_m 2.80378
+frame_id 334 time_s 2.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0199316
+tx_m 0.332867 ty_m 0.273791 tz_m 2.71153 rx_m 0.133829 ry_m 0.0674066 rz_m -0.090111 distance_m 2.74557
+frame_id 335 time_s 2.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0714955
+tx_m 0.325771 ty_m 0.273711 tz_m 2.70259 rx_m 0.000524653 ry_m 0.024214 rz_m -0.0780767 distance_m 2.73588
+frame_id 336 time_s 2.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00831167
+tx_m 0.31498 ty_m 0.268393 tz_m 2.65088 rx_m 0.115644 ry_m 0.0627698 rz_m -0.0865883 distance_m 2.68299
+frame_id 337 time_s 2.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0660601
+tx_m 0.308921 ty_m 0.269701 tz_m 2.64895 rx_m -0.031091 ry_m -0.00917836 rz_m -0.0601693 distance_m 2.68051
+frame_id 338 time_s 2.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0134819
+tx_m 0.299532 ty_m 0.265401 tz_m 2.60726 rx_m 0.0848291 ry_m 0.0568875 rz_m -0.0700647 distance_m 2.6378
+frame_id 339 time_s 2.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0533052
+tx_m 0.293813 ty_m 0.26561 tz_m 2.60854 rx_m 0.0845491 ry_m 0.0557869 rz_m -0.0683813 distance_m 2.63844
+frame_id 340 time_s 2.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0529302
+tx_m 0.284918 ty_m 0.262155 tz_m 2.56836 rx_m 0.16468 ry_m 0.0678794 rz_m -0.061078 distance_m 2.59738
+frame_id 341 time_s 2.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0944773
+tx_m 0.278773 ty_m 0.262485 tz_m 2.5646 rx_m 0.0514791 ry_m 0.0465401 rz_m -0.0532868 distance_m 2.59303
+frame_id 342 time_s 2.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.037656
+tx_m 0.273042 ty_m 0.262549 tz_m 2.56497 rx_m 0.0517318 ry_m 0.0456179 rz_m -0.0526213 distance_m 2.59278
+frame_id 343 time_s 2.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0375719
+tx_m 0.263475 ty_m 0.258174 tz_m 2.51548 rx_m 0.23189 ry_m 0.0680969 rz_m -0.0628042 distance_m 2.54238
+frame_id 344 time_s 2.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132118
+tx_m 0.258934 ty_m 0.259231 tz_m 2.52627 rx_m 0.141684 ry_m 0.0619701 rz_m -0.0459741 distance_m 2.5527
+frame_id 345 time_s 2.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0854754
+tx_m 0.254537 ty_m 0.26125 tz_m 2.53909 rx_m 0.135556 ry_m 0.0616474 rz_m -0.0333801 distance_m 2.56516
+frame_id 346 time_s 2.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0815728
+tx_m 0.247728 ty_m 0.260136 tz_m 2.52805 rx_m 0.23376 ry_m 0.0658573 rz_m -0.0494047 distance_m 2.55344
+frame_id 347 time_s 2.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.131488
+tx_m 0.24201 ty_m 0.260095 tz_m 2.52771 rx_m 0.234234 ry_m 0.0642177 rz_m -0.049078 distance_m 2.55255
+frame_id 348 time_s 2.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.131572
+tx_m 0.232849 ty_m 0.254714 tz_m 2.47576 rx_m 0.288384 ry_m 0.0648496 rz_m -0.051359 distance_m 2.49969
+frame_id 349 time_s 2.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165138
+tx_m 0.227252 ty_m 0.254675 tz_m 2.47543 rx_m 0.288788 ry_m 0.0631289 rz_m -0.050962 distance_m 2.49885
+frame_id 350 time_s 2.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165239
+tx_m 0.221657 ty_m 0.254637 tz_m 2.47512 rx_m 0.289184 ry_m 0.0614068 rz_m -0.0505637 distance_m 2.49803
+frame_id 351 time_s 2.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165345
+tx_m 0.216065 ty_m 0.2546 tz_m 2.47481 rx_m 0.28957 ry_m 0.0596832 rz_m -0.0501639 distance_m 2.49723
+frame_id 352 time_s 2.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165428
+tx_m 0.211556 ty_m 0.255905 tz_m 2.48729 rx_m 0.345831 ry_m 0.0620094 rz_m -0.0405618 distance_m 2.50935
+frame_id 353 time_s 2.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.192384
+tx_m 0.206837 ty_m 0.25836 tz_m 2.49778 rx_m 0.281586 ry_m 0.0613813 rz_m -0.0262274 distance_m 2.51961
+frame_id 354 time_s 2.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.1585
+tx_m 0.201197 ty_m 0.258324 tz_m 2.49748 rx_m 0.281942 ry_m 0.0596551 rz_m -0.0258349 distance_m 2.51885
+frame_id 355 time_s 2.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158573
+tx_m 0.196448 ty_m 0.258749 tz_m 2.50856 rx_m 0.279157 ry_m 0.0604968 rz_m -0.0140983 distance_m 2.52951
+frame_id 356 time_s 2.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155832
+tx_m 0.190792 ty_m 0.258037 tz_m 2.5084 rx_m 0.341951 ry_m 0.0608032 rz_m -0.0162177 distance_m 2.52885
+frame_id 357 time_s 2.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187128
+tx_m 0.185132 ty_m 0.258003 tz_m 2.50812 rx_m 0.342233 ry_m 0.0590088 rz_m -0.0157504 distance_m 2.52814
+frame_id 358 time_s 2.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187204
+tx_m 0.179475 ty_m 0.25797 tz_m 2.50784 rx_m 0.342507 ry_m 0.0572137 rz_m -0.0152819 distance_m 2.52745
+frame_id 359 time_s 2.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187249
+tx_m 0.17382 ty_m 0.257938 tz_m 2.50757 rx_m 0.342772 ry_m 0.0554181 rz_m -0.0148125 distance_m 2.52678
+frame_id 360 time_s 3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187288
+tx_m 0.168166 ty_m 0.257907 tz_m 2.5073 rx_m 0.343029 ry_m 0.0536219 rz_m -0.014342 distance_m 2.52614
+frame_id 361 time_s 3.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187356
+tx_m 0.16229 ty_m 0.258038 tz_m 2.50173 rx_m 0.34289 ry_m 0.0663678 rz_m -0.00606612 distance_m 2.52023
+frame_id 362 time_s 3.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0880441
+tx_m 0.156651 ty_m 0.258011 tz_m 2.50146 rx_m 0.342803 ry_m 0.0647167 rz_m -0.00556511 distance_m 2.51961
+frame_id 363 time_s 3.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0870453
+tx_m 0.153299 ty_m 0.261339 tz_m 2.52713 rx_m 0.254031 ry_m 0.0636676 rz_m -0.00226049 distance_m 2.54523
+frame_id 364 time_s 3.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0396337
+tx_m 0.14989 ty_m 0.264078 tz_m 2.55369 rx_m 0.225353 ry_m 0.0625776 rz_m -0.00107052 distance_m 2.57168
+frame_id 365 time_s 3.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0254842
+tx_m 0.144137 ty_m 0.264049 tz_m 2.55345 rx_m 0.225666 ry_m 0.0609059 rz_m -0.000741209 distance_m 2.57111
+frame_id 366 time_s 3.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0249347
+tx_m 0.137154 ty_m 0.261299 tz_m 2.5336 rx_m 0.238573 ry_m 0.0404729 rz_m 0.0153832 distance_m 2.55072
+frame_id 367 time_s 3.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165395
+tx_m 0.131269 ty_m 0.260732 tz_m 2.52782 rx_m 0.307445 ry_m 0.0574266 rz_m 0.0217711 distance_m 2.54462
+frame_id 368 time_s 3.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102394
+tx_m 0.125579 ty_m 0.260706 tz_m 2.52759 rx_m 0.307646 ry_m 0.0556463 rz_m 0.0222025 distance_m 2.5441
+frame_id 369 time_s 3.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102377
+tx_m 0.118708 ty_m 0.257644 tz_m 2.50711 rx_m -0.518159 ry_m 0.0585385 rz_m 0.0578462 distance_m 2.52311
+frame_id 370 time_s 3.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195591
+tx_m 0.116906 ty_m 0.263143 tz_m 2.56016 rx_m -0.471031 ry_m 0.0593218 rz_m 0.0567538 distance_m 2.5763
+frame_id 371 time_s 3.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158629
+tx_m 0.111148 ty_m 0.263121 tz_m 2.55998 rx_m -0.471318 ry_m 0.0566497 rz_m 0.0563727 distance_m 2.57586
+frame_id 372 time_s 3.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158601
+tx_m 0.10539 ty_m 0.263101 tz_m 2.5598 rx_m -0.471592 ry_m 0.0539743 rz_m 0.0559896 distance_m 2.57544
+frame_id 373 time_s 3.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158596
+tx_m 0.104334 ty_m 0.27104 tz_m 2.63569 rx_m 0.0853871 ry_m 0.0513077 rz_m 0.0299355 distance_m 2.65164
+frame_id 374 time_s 3.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0436656
+tx_m 0.0978623 ty_m 0.269228 tz_m 2.61857 rx_m -0.0709622 ry_m -0.0951754 rz_m 0.0311923 distance_m 2.63419
+frame_id 375 time_s 3.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0615136
+tx_m 0.0928153 ty_m 0.269167 tz_m 2.61808 rx_m -0.0805759 ry_m -0.16275 rz_m 0.0351518 distance_m 2.63351
+frame_id 376 time_s 3.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0900228
+tx_m 0.088723 ty_m 0.273245 tz_m 2.66462 rx_m -0.159103 ry_m 0.103849 rz_m 0.0484359 distance_m 2.68006
+frame_id 377 time_s 3.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0399821
+tx_m 0.080932 ty_m 0.267508 tz_m 2.60903 rx_m -0.0892608 ry_m 0.282757 rz_m 0.0218199 distance_m 2.62396
+frame_id 378 time_s 3.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.189554
+tx_m 0.0760181 ty_m 0.265948 tz_m 2.60065 rx_m -0.117237 ry_m 0.340027 rz_m 0.035957 distance_m 2.61532
+frame_id 379 time_s 3.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.144184
+tx_m 0.0705693 ty_m 0.267457 tz_m 2.6086 rx_m -0.0924389 ry_m 0.354754 rz_m 0.0186664 distance_m 2.62322
+frame_id 380 time_s 3.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.218906
+tx_m 0.0657147 ty_m 0.26589 tz_m 2.60012 rx_m -0.114695 ry_m 0.400378 rz_m 0.0334472 distance_m 2.6145
+frame_id 381 time_s 3.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.173373
+tx_m 0.0619818 ty_m 0.26568 tz_m 2.59789 rx_m -0.113244 ry_m 0.429259 rz_m 0.0324447 distance_m 2.61217
+frame_id 382 time_s 3.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.1747
+tx_m 0.0580087 ty_m 0.269796 tz_m 2.64426 rx_m -0.118651 ry_m 0.313155 rz_m 0.0649835 distance_m 2.65862
+frame_id 383 time_s 3.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0932712
+tx_m 0.0567558 ty_m 0.283233 tz_m 2.79144 rx_m -0.12963 ry_m 0.174406 rz_m 0.0750016 distance_m 2.80634
+frame_id 384 time_s 3.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0363499
+tx_m 0.0519048 ty_m 0.281468 tz_m 2.78117 rx_m -0.0925837 ry_m 0.285296 rz_m 0.0805662 distance_m 2.79585
+frame_id 385 time_s 3.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.150432
+tx_m 0.0472355 ty_m 0.2838 tz_m 2.79707 rx_m -0.118286 ry_m 0.353954 rz_m 0.0676149 distance_m 2.81183
+frame_id 386 time_s 3.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.111335
+tx_m 0.0396704 ty_m 0.276585 tz_m 2.72679 rx_m -0.132083 ry_m 0.424267 rz_m 0.0533132 distance_m 2.74106
+frame_id 387 time_s 3.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.181205
+tx_m 0.0350348 ty_m 0.276485 tz_m 2.72578 rx_m -0.129339 ry_m 0.476378 rz_m 0.0518079 distance_m 2.73999
+frame_id 388 time_s 3.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.196322
+tx_m 0.0320773 ty_m 0.283026 tz_m 2.79767 rx_m -0.129638 ry_m 0.447707 rz_m 0.0549953 distance_m 2.81214
+frame_id 389 time_s 3.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.160831
+tx_m 0.0272832 ty_m 0.274294 tz_m 2.71866 rx_m -0.125192 ry_m 0.526083 rz_m 0.0509686 distance_m 2.7326
+frame_id 390 time_s 3.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.175851
+tx_m 0.0227171 ty_m 0.274428 tz_m 2.72021 rx_m -0.124854 ry_m 0.566915 rz_m 0.0500068 distance_m 2.73412
+frame_id 391 time_s 3.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.206735
+tx_m 0.0176457 ty_m 0.266603 tz_m 2.65031 rx_m -0.123621 ry_m 0.642003 rz_m 0.0465773 distance_m 2.66374
+frame_id 392 time_s 3.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.269733
+tx_m 0.0150525 ty_m 0.272463 tz_m 2.71551 rx_m -0.122702 ry_m 0.607357 rz_m 0.0496592 distance_m 2.72919
+frame_id 393 time_s 3.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.201618
+tx_m 0.0105021 ty_m 0.27259 tz_m 2.71701 rx_m -0.122951 ry_m 0.643004 rz_m 0.0491212 distance_m 2.73067
+frame_id 394 time_s 3.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.235359
+tx_m 0.00594368 ty_m 0.27314 tz_m 2.72245 rx_m -0.123232 ry_m 0.675431 rz_m 0.0480666 distance_m 2.73612
+frame_id 395 time_s 3.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.246971
+tx_m 0.00615861 ty_m 0.283007 tz_m 2.78373 rx_m -0.0964507 ry_m -0.732945 rz_m 0.0372699 distance_m 2.79808
+frame_id 396 time_s 3.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.291887
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 397 time_s 3.30833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 398 time_s 3.31667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 399 time_s 3.325	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 400 time_s 3.33333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 401 time_s 3.34167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 402 time_s 3.35	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 403 time_s 3.35833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 404 time_s 3.36667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 405 time_s 3.375	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 406 time_s 3.38333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 407 time_s 3.39167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 408 time_s 3.4	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 409 time_s 3.40833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 410 time_s 3.41667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 411 time_s 3.425	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 412 time_s 3.43333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 413 time_s 3.44167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.431627 ty_m 0.383373 tz_m 2.83216 rx_m -0.125752 ry_m -0.65339 rz_m 0.0183226 distance_m 2.8904
+frame_id 414 time_s 3.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.262424
+tx_m 0.409765 ty_m 0.368153 tz_m 2.71832 rx_m -0.149679 ry_m -0.631435 rz_m -0.0327151 distance_m 2.77357
+frame_id 415 time_s 3.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.27856
+tx_m 0.405094 ty_m 0.367442 tz_m 2.71266 rx_m -0.148402 ry_m -0.619648 rz_m -0.0323349 distance_m 2.76725
+frame_id 416 time_s 3.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.275438
+tx_m 0.40385 ty_m 0.368225 tz_m 2.72001 rx_m -0.14485 ry_m -0.568433 rz_m -0.0353799 distance_m 2.77438
+frame_id 417 time_s 3.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.255267
+tx_m 0.389087 ty_m 0.359545 tz_m 2.65054 rx_m -0.143796 ry_m -0.566316 rz_m -0.0327793 distance_m 2.70296
+frame_id 418 time_s 3.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.267864
+tx_m 0.394982 ty_m 0.367895 tz_m 2.71181 rx_m -0.148541 ry_m -0.529773 rz_m -0.0519329 distance_m 2.76501
+frame_id 419 time_s 3.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.242619
+tx_m 0.390652 ty_m 0.369671 tz_m 2.71374 rx_m -0.145368 ry_m -0.495551 rz_m -0.0516915 distance_m 2.76652
+frame_id 420 time_s 3.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.228996
+tx_m 0.386273 ty_m 0.369886 tz_m 2.71542 rx_m -0.141633 ry_m -0.459403 rz_m -0.0519353 distance_m 2.76758
+frame_id 421 time_s 3.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.21441
+tx_m 0.382546 ty_m 0.369989 tz_m 2.71624 rx_m -0.139784 ry_m -0.44093 rz_m -0.0521841 distance_m 2.76789
+frame_id 422 time_s 3.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.206858
+tx_m 0.368999 ty_m 0.361172 tz_m 2.64617 rx_m -0.141101 ry_m -0.460664 rz_m -0.0491389 distance_m 2.69608
+frame_id 423 time_s 3.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.226128
+tx_m 0.374397 ty_m 0.371823 tz_m 2.71862 rx_m -0.134043 ry_m -0.380266 rz_m -0.0533211 distance_m 2.76935
+frame_id 424 time_s 3.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.181831
+tx_m 0.371197 ty_m 0.374002 tz_m 2.72927 rx_m -0.125734 ry_m -0.342486 rz_m -0.0399431 distance_m 2.77967
+frame_id 425 time_s 3.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.16438
+tx_m 0.36544 ty_m 0.373689 tz_m 2.72119 rx_m -0.123747 ry_m -0.284955 rz_m -0.0564594 distance_m 2.77093
+frame_id 426 time_s 3.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.141734
+tx_m 0.360632 ty_m 0.375832 tz_m 2.73117 rx_m -0.121198 ry_m -0.29484 rz_m -0.0409858 distance_m 2.7804
+frame_id 427 time_s 3.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.144266
+tx_m 0.356055 ty_m 0.375087 tz_m 2.7258 rx_m -0.118944 ry_m -0.272221 rz_m -0.0429233 distance_m 2.77443
+frame_id 428 time_s 3.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.135287
+tx_m 0.33507 ty_m 0.358061 tz_m 2.59199 rx_m -0.127041 ry_m -0.352189 rz_m -0.0354155 distance_m 2.63797
+frame_id 429 time_s 3.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.18642
+tx_m 0.331739 ty_m 0.359916 tz_m 2.60069 rx_m -0.119772 ry_m -0.312139 rz_m -0.0246097 distance_m 2.64635
+frame_id 430 time_s 3.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.166416
+tx_m 0.334437 ty_m 0.370264 tz_m 2.66977 rx_m -0.114463 ry_m -0.255261 rz_m -0.0285322 distance_m 2.71599
+frame_id 431 time_s 3.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132983
+tx_m 0.33595 ty_m 0.376654 tz_m 2.72073 rx_m -0.0822978 ry_m -0.0760663 rz_m -0.0684066 distance_m 2.76715
+frame_id 432 time_s 3.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0503123
+tx_m 0.331009 ty_m 0.37871 tz_m 2.7304 rx_m -0.0857918 ry_m -0.0898036 rz_m -0.0542061 distance_m 2.77635
+frame_id 433 time_s 3.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0558486
+tx_m 0.324261 ty_m 0.376447 tz_m 2.71396 rx_m -0.0176822 ry_m 0.0127146 rz_m -0.0639075 distance_m 2.75907
+frame_id 434 time_s 3.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.000464251
+tx_m 0.313131 ty_m 0.371681 tz_m 2.66934 rx_m -0.0925325 ry_m -0.117317 rz_m -0.0375361 distance_m 2.71323
+frame_id 435 time_s 3.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0708771
+tx_m 0.307462 ty_m 0.370499 tz_m 2.66078 rx_m -0.0464019 ry_m -0.0148205 rz_m -0.0463045 distance_m 2.70399
+frame_id 436 time_s 3.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0192408
+tx_m 0.30275 ty_m 0.372758 tz_m 2.67196 rx_m -0.0538874 ry_m -0.0259144 rz_m -0.0326613 distance_m 2.71477
+frame_id 437 time_s 3.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.02524
+tx_m 0.293731 ty_m 0.367276 tz_m 2.63267 rx_m 0.0500446 ry_m 0.0431245 rz_m -0.04277 distance_m 2.67435
+frame_id 438 time_s 3.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0359021
+tx_m 0.289326 ty_m 0.369937 tz_m 2.64658 rx_m 0.0420311 ry_m 0.0409126 rz_m -0.0295136 distance_m 2.68792
+frame_id 439 time_s 3.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0316046
+tx_m 0.283347 ty_m 0.369903 tz_m 2.6464 rx_m 0.0425508 ry_m 0.0401616 rz_m -0.0294406 distance_m 2.68711
+frame_id 440 time_s 3.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0317064
+tx_m 0.272761 ty_m 0.36246 tz_m 2.58827 rx_m 0.0266884 ry_m 0.0340241 rz_m -0.0275799 distance_m 2.62772
+frame_id 441 time_s 3.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0246755
+tx_m 0.268209 ty_m 0.364884 tz_m 2.60057 rx_m 0.0159141 ry_m 0.0296687 rz_m -0.0148018 distance_m 2.6397
+frame_id 442 time_s 3.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187263
+tx_m 0.262345 ty_m 0.364862 tz_m 2.60047 rx_m 0.0163055 ry_m 0.0291274 rz_m -0.0147652 distance_m 2.63902
+frame_id 443 time_s 3.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.018775
+tx_m 0.25594 ty_m 0.363798 tz_m 2.58778 rx_m 0.0600352 ry_m 0.0440888 rz_m -0.00605414 distance_m 2.62573
+frame_id 444 time_s 3.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0420492
+tx_m 0.248257 ty_m 0.36008 tz_m 2.56129 rx_m 0.105256 ry_m 0.0527531 rz_m -0.00880007 distance_m 2.59836
+frame_id 445 time_s 3.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0659941
+tx_m 0.241411 ty_m 0.358538 tz_m 2.55007 rx_m 0.197846 ry_m 0.0602994 rz_m -0.0251551 distance_m 2.58644
+frame_id 446 time_s 3.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.11291
+tx_m 0.235645 ty_m 0.358487 tz_m 2.54976 rx_m 0.198265 ry_m 0.058833 rz_m -0.0248483 distance_m 2.5856
+frame_id 447 time_s 3.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112964
+tx_m 0.22988 ty_m 0.358438 tz_m 2.54947 rx_m 0.198674 ry_m 0.0573647 rz_m -0.02454 distance_m 2.58478
+frame_id 448 time_s 3.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.113045
+tx_m 0.224118 ty_m 0.358389 tz_m 2.54918 rx_m 0.199074 ry_m 0.0558945 rz_m -0.0242301 distance_m 2.58398
+frame_id 449 time_s 3.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.11311
+tx_m 0.219388 ty_m 0.360733 tz_m 2.56091 rx_m 0.194963 ry_m 0.0564215 rz_m -0.0123546 distance_m 2.59548
+frame_id 450 time_s 3.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110112
+tx_m 0.210582 ty_m 0.353241 tz_m 2.50763 rx_m 0.250232 ry_m 0.0589634 rz_m -0.0147237 distance_m 2.54113
+frame_id 451 time_s 3.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143118
+tx_m 0.206354 ty_m 0.35688 tz_m 2.53358 rx_m 0.224397 ry_m 0.0556565 rz_m -0.0131045 distance_m 2.5669
+frame_id 452 time_s 3.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.127106
+tx_m 0.199255 ty_m 0.353147 tz_m 2.50706 rx_m 0.250889 ry_m 0.0558154 rz_m -0.0139642 distance_m 2.53964
+frame_id 453 time_s 3.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.14321
+tx_m 0.193595 ty_m 0.353103 tz_m 2.50679 rx_m 0.251204 ry_m 0.05424 rz_m -0.0135827 distance_m 2.53893
+frame_id 454 time_s 3.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143271
+tx_m 0.187937 ty_m 0.353059 tz_m 2.50653 rx_m 0.25151 ry_m 0.0526635 rz_m -0.0131999 distance_m 2.53824
+frame_id 455 time_s 3.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143331
+tx_m 0.182032 ty_m 0.352324 tz_m 2.50124 rx_m 0.311207 ry_m 0.0681382 rz_m -0.00749999 distance_m 2.53249
+frame_id 456 time_s 3.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0737118
+tx_m 0.174885 ty_m 0.348944 tz_m 2.4822 rx_m 0.319769 ry_m 0.0537884 rz_m 0.00863621 distance_m 2.5127
+frame_id 457 time_s 3.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.222455
+tx_m 0.169266 ty_m 0.349519 tz_m 2.48145 rx_m 0.260894 ry_m 0.0491999 rz_m 0.0113187 distance_m 2.51166
+frame_id 458 time_s 3.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.186294
+tx_m 0.16608 ty_m 0.353114 tz_m 2.507 rx_m 0.236671 ry_m 0.0464118 rz_m 0.0126915 distance_m 2.53719
+frame_id 459 time_s 3.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.169975
+tx_m 0.162793 ty_m 0.357351 tz_m 2.53221 rx_m 0.128315 ry_m 0.0359056 rz_m 0.0172442 distance_m 2.56248
+frame_id 460 time_s 3.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.105237
+tx_m 0.157087 ty_m 0.357319 tz_m 2.53202 rx_m 0.128636 ry_m 0.0346108 rz_m 0.017469 distance_m 2.56193
+frame_id 461 time_s 3.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.105361
+tx_m 0.151185 ty_m 0.356623 tz_m 2.52686 rx_m 0.210824 ry_m 0.0582165 rz_m 0.0222787 distance_m 2.55638
+frame_id 462 time_s 3.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0483109
+tx_m 0.145489 ty_m 0.356584 tz_m 2.52662 rx_m 0.211099 ry_m 0.0566872 rz_m 0.0226139 distance_m 2.5558
+frame_id 463 time_s 3.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0482712
+tx_m 0.139796 ty_m 0.356547 tz_m 2.52638 rx_m 0.211365 ry_m 0.055163 rz_m 0.0229492 distance_m 2.55525
+frame_id 464 time_s 3.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0481974
+tx_m 0.134103 ty_m 0.356511 tz_m 2.52616 rx_m 0.211623 ry_m 0.0536395 rz_m 0.0232855 distance_m 2.55471
+frame_id 465 time_s 3.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0480953
+tx_m 0.132609 ty_m 0.364042 tz_m 2.57968 rx_m 0.148206 ry_m 0.0517821 rz_m 0.0259976 distance_m 2.60861
+frame_id 466 time_s 3.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0124683
+tx_m 0.125584 ty_m 0.360299 tz_m 2.55809 rx_m 0.164087 ry_m 0.0290299 rz_m 0.0426515 distance_m 2.58639
+frame_id 467 time_s 3.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.152219
+tx_m 0.119647 ty_m 0.358681 tz_m 2.55156 rx_m 0.165576 ry_m 0.0479947 rz_m 0.0504336 distance_m 2.57943
+frame_id 468 time_s 3.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0467733
+tx_m 0.113901 ty_m 0.358649 tz_m 2.55136 rx_m 0.165823 ry_m 0.0465634 rz_m 0.0507117 distance_m 2.57896
+frame_id 469 time_s 3.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0466434
+tx_m 0.111953 ty_m 0.366248 tz_m 2.60558 rx_m 0.0883827 ry_m 0.0431393 rz_m 0.0541171 distance_m 2.63358
+frame_id 470 time_s 3.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.020982
+tx_m 0.106087 ty_m 0.366218 tz_m 2.60539 rx_m 0.0887013 ry_m 0.041977 rz_m 0.0542881 distance_m 2.63314
+frame_id 471 time_s 3.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.020528
+tx_m 0.100223 ty_m 0.366189 tz_m 2.60521 rx_m 0.0890024 ry_m 0.0408142 rz_m 0.0544598 distance_m 2.63273
+frame_id 472 time_s 3.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0201105
+tx_m 0.0968262 ty_m 0.369633 tz_m 2.63489 rx_m 0.00704413 ry_m -0.0112489 rz_m 0.076716 distance_m 2.66245
+frame_id 473 time_s 3.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0682764
+tx_m 0.0903628 ty_m 0.360798 tz_m 2.57682 rx_m -0.0332969 ry_m -0.0219234 rz_m 0.0765956 distance_m 2.60352
+frame_id 474 time_s 3.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0551167
+tx_m 0.0867029 ty_m 0.36268 tz_m 2.59026 rx_m -0.0975029 ry_m -0.149393 rz_m 0.0880107 distance_m 2.61696
+frame_id 475 time_s 3.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0941205
+tx_m 0.080886 ty_m 0.362701 tz_m 2.59043 rx_m -0.0986716 ry_m -0.150932 rz_m 0.0880328 distance_m 2.61695
+frame_id 476 time_s 3.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0947395
+tx_m 0.0778843 ty_m 0.371252 tz_m 2.65729 rx_m -0.176744 ry_m 0.203523 rz_m 0.0664677 distance_m 2.68423
+frame_id 477 time_s 3.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0854401
+tx_m 0.0730675 ty_m 0.37441 tz_m 2.68467 rx_m -0.117711 ry_m 0.0591821 rz_m 0.0855199 distance_m 2.71163
+frame_id 478 time_s 3.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.283273
+tx_m 0.0661013 ty_m 0.360312 tz_m 2.57797 rx_m -0.0903754 ry_m -0.301022 rz_m 0.116461 distance_m 2.60387
+frame_id 479 time_s 3.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.170211
+tx_m 0.0662181 ty_m 0.388103 tz_m 2.78227 rx_m -0.106164 ry_m -0.0580559 rz_m 0.100069 distance_m 2.80999
+frame_id 480 time_s 4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.965886
+tx_m 0.0573878 ty_m 0.367205 tz_m 2.63749 rx_m -0.105781 ry_m -0.293574 rz_m 0.128579 distance_m 2.66355
+frame_id 481 time_s 4.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.14749
+tx_m 0.05254 ty_m 0.366548 tz_m 2.63332 rx_m -0.161573 ry_m 0.38637 rz_m 0.0832025 distance_m 2.65923
+frame_id 482 time_s 4.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172885
+tx_m 0.0496344 ty_m 0.372191 tz_m 2.68392 rx_m -0.187161 ry_m 0.336286 rz_m 0.106273 distance_m 2.71005
+frame_id 483 time_s 4.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.139002
+tx_m 0.0443564 ty_m 0.365512 tz_m 2.63571 rx_m -0.157557 ry_m 0.464555 rz_m 0.0791119 distance_m 2.6613
+frame_id 484 time_s 4.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.134807
+tx_m 0.0391821 ty_m 0.365298 tz_m 2.63467 rx_m -0.158249 ry_m 0.486905 rz_m 0.0788919 distance_m 2.66016
+frame_id 485 time_s 4.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.203524
+tx_m 0.0346458 ty_m 0.355235 tz_m 2.56657 rx_m -0.107388 ry_m -0.51087 rz_m 0.147511 distance_m 2.59127
+frame_id 486 time_s 4.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.300557
+tx_m 0.03007 ty_m 0.35279 tz_m 2.55333 rx_m -0.091691 ry_m -0.540188 rz_m 0.168444 distance_m 2.57776
+frame_id 487 time_s 4.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.248454
+tx_m 0.0261897 ty_m 0.359785 tz_m 2.61015 rx_m -0.171884 ry_m 0.545555 rz_m 0.0965158 distance_m 2.63496
+frame_id 488 time_s 4.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.234142
+tx_m 0.0239275 ty_m 0.369613 tz_m 2.68604 rx_m -0.0907343 ry_m -0.501697 rz_m 0.170862 distance_m 2.71146
+frame_id 489 time_s 4.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.197055
+tx_m 0.0198743 ty_m 0.378544 tz_m 2.75648 rx_m -0.0900519 ry_m -0.503012 rz_m 0.174999 distance_m 2.78242
+frame_id 490 time_s 4.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.186509
+tx_m 0.0164273 ty_m 0.368754 tz_m 2.67919 rx_m -0.0920561 ry_m -0.549697 rz_m 0.17708 distance_m 2.7045
+frame_id 491 time_s 4.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.263126
+tx_m 0.0108161 ty_m 0.38361 tz_m 2.78409 rx_m -0.167822 ry_m 0.586733 rz_m 0.0719052 distance_m 2.81041
+frame_id 492 time_s 4.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.219466
+tx_m 0.00614376 ty_m 0.383349 tz_m 2.78209 rx_m -0.167285 ry_m 0.62599 rz_m 0.0713323 distance_m 2.80839
+frame_id 493 time_s 4.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241427
+tx_m 0.00378965 ty_m 0.377869 tz_m 2.75193 rx_m -0.172345 ry_m 0.635721 rz_m 0.103543 distance_m 2.77776
+frame_id 494 time_s 4.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.272818
+tx_m 0.00118541 ty_m 0.372179 tz_m 2.71176 rx_m -0.171045 ry_m 0.699521 rz_m 0.0549466 distance_m 2.73718
+frame_id 495 time_s 4.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195578
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 496 time_s 4.13333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 497 time_s 4.14167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 498 time_s 4.15	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 499 time_s 4.15833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 500 time_s 4.16667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 501 time_s 4.175	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 502 time_s 4.18333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 503 time_s 4.19167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 504 time_s 4.2	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 505 time_s 4.20833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 506 time_s 4.21667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 507 time_s 4.225	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 508 time_s 4.23333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 509 time_s 4.24167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 510 time_s 4.25	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 511 time_s 4.25833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 512 time_s 4.26667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.403607 ty_m 0.466514 tz_m 2.65424 rx_m -0.227683 ry_m -0.587072 rz_m -0.12304 distance_m 2.72498
+frame_id 513 time_s 4.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.282746
+tx_m 0.414732 ty_m 0.482843 tz_m 2.74847 rx_m -0.229381 ry_m -0.53738 rz_m -0.146003 distance_m 2.82121
+frame_id 514 time_s 4.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.246806
+tx_m 0.417026 ty_m 0.489295 tz_m 2.78493 rx_m -0.219679 ry_m -0.438132 rz_m -0.167496 distance_m 2.85818
+frame_id 515 time_s 4.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.204998
+tx_m 0.397601 ty_m 0.471175 tz_m 2.67528 rx_m -0.227328 ry_m -0.489056 rz_m -0.161169 distance_m 2.7454
+frame_id 516 time_s 4.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.242292
+tx_m 0.389314 ty_m 0.467101 tz_m 2.64888 rx_m -0.220045 ry_m -0.475928 rz_m -0.149033 distance_m 2.71778
+frame_id 517 time_s 4.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241106
+tx_m 0.411112 ty_m 0.496076 tz_m 2.81519 rx_m -0.208538 ry_m -0.331138 rz_m -0.197264 distance_m 2.88798
+frame_id 518 time_s 4.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.161824
+tx_m 0.397755 ty_m 0.486754 tz_m 2.7507 rx_m -0.198147 ry_m -0.338558 rz_m -0.159401 distance_m 2.82161
+frame_id 519 time_s 4.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.170468
+tx_m 0.381242 ty_m 0.472845 tz_m 2.66723 rx_m -0.198628 ry_m -0.351676 rz_m -0.151897 distance_m 2.73551
+frame_id 520 time_s 4.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.18646
+tx_m 0.380836 ty_m 0.476732 tz_m 2.68594 rx_m -0.194487 ry_m -0.355154 rz_m -0.137067 distance_m 2.75438
+frame_id 521 time_s 4.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.184518
+tx_m 0.382754 ty_m 0.486039 tz_m 2.73251 rx_m -0.180701 ry_m -0.27819 rz_m -0.140772 distance_m 2.80167
+frame_id 522 time_s 4.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.146965
+tx_m 0.368716 ty_m 0.474625 tz_m 2.66433 rx_m -0.180321 ry_m -0.28223 rz_m -0.13538 distance_m 2.73128
+frame_id 523 time_s 4.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.156045
+tx_m 0.368304 ty_m 0.478633 tz_m 2.68383 rx_m -0.178047 ry_m -0.24665 rz_m -0.153416 distance_m 2.75094
+frame_id 524 time_s 4.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.139478
+tx_m 0.364461 ty_m 0.480372 tz_m 2.68957 rx_m -0.164065 ry_m -0.203669 rz_m -0.139793 distance_m 2.75633
+frame_id 525 time_s 4.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.119455
+tx_m 0.359594 ty_m 0.480001 tz_m 2.68817 rx_m -0.144012 ry_m -0.132405 rz_m -0.145936 distance_m 2.75426
+frame_id 526 time_s 4.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0882059
+tx_m 0.343205 ty_m 0.467393 tz_m 2.60791 rx_m -0.169417 ry_m -0.247652 rz_m -0.117241 distance_m 2.6716
+frame_id 527 time_s 4.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.146088
+tx_m 0.335149 ty_m 0.461493 tz_m 2.56841 rx_m -0.174446 ry_m -0.298323 rz_m -0.0983647 distance_m 2.63097
+frame_id 528 time_s 4.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.173347
+tx_m 0.338319 ty_m 0.472311 tz_m 2.62834 rx_m -0.150703 ry_m -0.163599 rz_m -0.122933 distance_m 2.69179
+frame_id 529 time_s 4.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.105827
+tx_m 0.334051 ty_m 0.473281 tz_m 2.63084 rx_m -0.126843 ry_m -0.0991459 rz_m -0.117494 distance_m 2.69386
+frame_id 530 time_s 4.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.074687
+tx_m 0.329925 ty_m 0.475407 tz_m 2.64057 rx_m -0.0168583 ry_m 0.0159473 rz_m -0.144299 distance_m 2.70323
+frame_id 531 time_s 4.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00325243
+tx_m 0.323968 ty_m 0.475127 tz_m 2.63469 rx_m 0.015464 ry_m 0.0265392 rz_m -0.130843 distance_m 2.69672
+frame_id 532 time_s 4.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0196285
+tx_m 0.322676 ty_m 0.478052 tz_m 2.64895 rx_m 0.0313112 ry_m 0.0308645 rz_m -0.12247 distance_m 2.71101
+frame_id 533 time_s 4.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0272436
+tx_m 0.313358 ty_m 0.472986 tz_m 2.62006 rx_m -0.0685498 ry_m -0.0137866 rz_m -0.122491 distance_m 2.68079
+frame_id 534 time_s 4.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0262601
+tx_m 0.305379 ty_m 0.468259 tz_m 2.59081 rx_m 0.014887 ry_m 0.0257489 rz_m -0.118072 distance_m 2.65044
+frame_id 535 time_s 4.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0199057
+tx_m 0.299868 ty_m 0.468889 tz_m 2.5935 rx_m 0.0128743 ry_m 0.0247415 rz_m -0.115008 distance_m 2.65255
+frame_id 536 time_s 4.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187632
+tx_m 0.290388 ty_m 0.462044 tz_m 2.54877 rx_m -0.0180891 ry_m 0.0144635 rz_m -0.100073 distance_m 2.60654
+frame_id 537 time_s 4.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00264399
+tx_m 0.284909 ty_m 0.462576 tz_m 2.55103 rx_m -0.0200663 ry_m 0.0133135 rz_m -0.0974656 distance_m 2.60824
+frame_id 538 time_s 4.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00158655
+tx_m 0.27564 ty_m 0.455152 tz_m 2.50668 rx_m 0.148584 ry_m 0.0434616 rz_m -0.108636 distance_m 2.56254
+frame_id 539 time_s 4.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0924005
+tx_m 0.27054 ty_m 0.456916 tz_m 2.51174 rx_m 0.21369 ry_m 0.0455212 rz_m -0.109458 distance_m 2.56726
+frame_id 540 time_s 4.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.125517
+tx_m 0.263423 ty_m 0.453707 tz_m 2.49785 rx_m 0.220368 ry_m 0.0415494 rz_m -0.120772 distance_m 2.55235
+frame_id 541 time_s 4.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13004
+tx_m 0.257102 ty_m 0.448643 tz_m 2.47118 rx_m 0.250247 ry_m 0.040663 rz_m -0.123093 distance_m 2.5247
+frame_id 542 time_s 4.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.148469
+tx_m 0.256323 ty_m 0.456657 tz_m 2.5112 rx_m 0.226552 ry_m 0.0423439 rz_m -0.10912 distance_m 2.56522
+frame_id 543 time_s 4.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.131833
+tx_m 0.25199 ty_m 0.459755 tz_m 2.52449 rx_m 0.219763 ry_m 0.0435606 rz_m -0.0970392 distance_m 2.57836
+frame_id 544 time_s 4.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.1271
+tx_m 0.243898 ty_m 0.453274 tz_m 2.48567 rx_m 0.259475 ry_m 0.0463328 rz_m -0.0871764 distance_m 2.53841
+frame_id 545 time_s 4.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151865
+tx_m 0.238352 ty_m 0.453407 tz_m 2.48619 rx_m 0.259529 ry_m 0.0450782 rz_m -0.0859459 distance_m 2.53841
+frame_id 546 time_s 4.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151737
+tx_m 0.232804 ty_m 0.453538 tz_m 2.48671 rx_m 0.259581 ry_m 0.043818 rz_m -0.0847339 distance_m 2.53843
+frame_id 547 time_s 4.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151594
+tx_m 0.227182 ty_m 0.453483 tz_m 2.48646 rx_m 0.259902 ry_m 0.0423518 rz_m -0.0843162 distance_m 2.53767
+frame_id 548 time_s 4.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151686
+tx_m 0.221562 ty_m 0.45343 tz_m 2.48623 rx_m 0.260216 ry_m 0.0408844 rz_m -0.0838973 distance_m 2.53693
+frame_id 549 time_s 4.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151768
+tx_m 0.217024 ty_m 0.45634 tz_m 2.49848 rx_m 0.255268 ry_m 0.0422768 rz_m -0.0721592 distance_m 2.54906
+frame_id 550 time_s 4.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147854
+tx_m 0.209474 ty_m 0.449841 tz_m 2.45951 rx_m 0.292623 ry_m 0.0450124 rz_m -0.0622624 distance_m 2.50907
+frame_id 551 time_s 4.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172345
+tx_m 0.203917 ty_m 0.449788 tz_m 2.45927 rx_m 0.292901 ry_m 0.0434918 rz_m -0.0617998 distance_m 2.50837
+frame_id 552 time_s 4.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172411
+tx_m 0.198361 ty_m 0.449737 tz_m 2.45904 rx_m 0.293172 ry_m 0.0419705 rz_m -0.0613363 distance_m 2.50768
+frame_id 553 time_s 4.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172493
+tx_m 0.192848 ty_m 0.449808 tz_m 2.4593 rx_m 0.293296 ry_m 0.0405921 rz_m -0.0603572 distance_m 2.50752
+frame_id 554 time_s 4.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172423
+tx_m 0.189929 ty_m 0.454393 tz_m 2.48445 rx_m 0.275761 ry_m 0.0389641 rz_m -0.0593053 distance_m 2.53279
+frame_id 555 time_s 4.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.159837
+tx_m 0.187735 ty_m 0.460943 tz_m 2.52062 rx_m 0.189275 ry_m 0.037556 rz_m -0.0450062 distance_m 2.56929
+frame_id 556 time_s 4.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.111473
+tx_m 0.182046 ty_m 0.460899 tz_m 2.52042 rx_m 0.189559 ry_m 0.0362067 rz_m -0.0446774 distance_m 2.56868
+frame_id 557 time_s 4.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.111516
+tx_m 0.177219 ty_m 0.463814 tz_m 2.53251 rx_m 0.182933 ry_m 0.0369327 rz_m -0.0328245 distance_m 2.58073
+frame_id 558 time_s 4.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107173
+tx_m 0.172327 ty_m 0.465277 tz_m 2.54449 rx_m 0.177078 ry_m 0.0376432 rz_m -0.0209816 distance_m 2.59241
+frame_id 559 time_s 4.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103242
+tx_m 0.166588 ty_m 0.465235 tz_m 2.54429 rx_m 0.177342 ry_m 0.0363148 rz_m -0.0206683 distance_m 2.59184
+frame_id 560 time_s 4.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103287
+tx_m 0.161615 ty_m 0.467447 tz_m 2.55636 rx_m 0.23874 ry_m 0.0407487 rz_m -0.0113435 distance_m 2.60376
+frame_id 561 time_s 4.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132886
+tx_m 0.158252 ty_m 0.47241 tz_m 2.58358 rx_m 0.214307 ry_m 0.0382787 rz_m -0.0101168 distance_m 2.63117
+frame_id 562 time_s 4.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.118172
+tx_m 0.154817 ty_m 0.47748 tz_m 2.61138 rx_m 0.187778 ry_m 0.0355954 rz_m -0.00885853 distance_m 2.65918
+frame_id 563 time_s 4.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102921
+tx_m 0.14893 ty_m 0.477439 tz_m 2.61119 rx_m 0.188006 ry_m 0.0342377 rz_m -0.00852875 distance_m 2.65866
+frame_id 564 time_s 4.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102949
+tx_m 0.143044 ty_m 0.4774 tz_m 2.61102 rx_m 0.188226 ry_m 0.0328791 rz_m -0.00819809 distance_m 2.65815
+frame_id 565 time_s 4.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10298
+tx_m 0.13716 ty_m 0.477363 tz_m 2.61084 rx_m 0.188437 ry_m 0.0315197 rz_m -0.00786659 distance_m 2.65767
+frame_id 566 time_s 4.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103014
+tx_m 0.135522 ty_m 0.486072 tz_m 2.66266 rx_m 0.128206 ry_m 0.0474478 rz_m 0.00140534 distance_m 2.71005
+frame_id 567 time_s 4.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0391383
+tx_m 0.128274 ty_m 0.481241 tz_m 2.6403 rx_m 0.142844 ry_m 0.0255479 rz_m 0.0191279 distance_m 2.68686
+frame_id 568 time_s 4.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110089
+tx_m 0.121738 ty_m 0.476061 tz_m 2.6118 rx_m 0.172888 ry_m 0.0271365 rz_m 0.0181931 distance_m 2.65763
+frame_id 569 time_s 4.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.128377
+tx_m 0.11936 ty_m 0.481298 tz_m 2.64046 rx_m 0.142995 ry_m 0.0246881 rz_m 0.0192346 distance_m 2.68662
+frame_id 570 time_s 4.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.114873
+tx_m 0.113407 ty_m 0.481193 tz_m 2.64 rx_m 0.141215 ry_m 0.0232465 rz_m 0.0198926 distance_m 2.68589
+frame_id 571 time_s 4.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.108359
+tx_m 0.107328 ty_m 0.479266 tz_m 2.63344 rx_m 0.141644 ry_m 0.0420488 rz_m 0.0275408 distance_m 2.67885
+frame_id 572 time_s 4.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0066832
+tx_m 0.104086 ty_m 0.484875 tz_m 2.66826 rx_m 0.0880659 ry_m 0.0148934 rz_m 0.0476304 distance_m 2.71395
+frame_id 573 time_s 4.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107403
+tx_m 0.0980751 ty_m 0.484768 tz_m 2.66779 rx_m 0.0858214 ry_m 0.0133631 rz_m 0.0482671 distance_m 2.71325
+frame_id 574 time_s 4.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.100415
+tx_m 0.0956575 ty_m 0.495382 tz_m 2.72626 rx_m -0.00901359 ry_m -0.0040953 rz_m 0.0524002 distance_m 2.77255
+frame_id 575 time_s 4.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0523393
+tx_m 0.0895182 ty_m 0.495265 tz_m 2.72574 rx_m -0.0126208 ry_m -0.00609004 rz_m 0.0530215 distance_m 2.77182
+frame_id 576 time_s 4.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0424152
+tx_m 0.0868931 ty_m 0.507195 tz_m 2.79142 rx_m -0.169536 ry_m 0.0332088 rz_m 0.0499443 distance_m 2.83846
+frame_id 577 time_s 4.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.19202
+tx_m 0.0792383 ty_m 0.495977 tz_m 2.7379 rx_m -0.100486 ry_m -0.077597 rz_m 0.0882366 distance_m 2.78359
+frame_id 578 time_s 4.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0160423
+tx_m 0.073742 ty_m 0.488065 tz_m 2.6904 rx_m -0.152108 ry_m -0.308134 rz_m 0.0836351 distance_m 2.73531
+frame_id 579 time_s 4.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.154094
+tx_m 0.0677512 ty_m 0.486229 tz_m 2.68446 rx_m -0.219623 ry_m 0.414468 rz_m 0.0364338 distance_m 2.72898
+frame_id 580 time_s 4.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.177747
+tx_m 0.0627917 ty_m 0.483235 tz_m 2.6716 rx_m -0.14716 ry_m -0.354114 rz_m 0.115299 distance_m 2.71567
+frame_id 581 time_s 4.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164458
+tx_m 0.0569135 ty_m 0.47123 tz_m 2.60574 rx_m -0.211221 ry_m 0.476354 rz_m 0.0309984 distance_m 2.64861
+frame_id 582 time_s 4.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.210807
+tx_m 0.0525695 ty_m 0.472129 tz_m 2.61045 rx_m -0.208419 ry_m 0.518788 rz_m 0.0271751 distance_m 2.65332
+frame_id 583 time_s 4.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.194143
+tx_m 0.0470604 ty_m 0.466869 tz_m 2.58904 rx_m -0.212704 ry_m 0.529268 rz_m 0.0546087 distance_m 2.63122
+frame_id 584 time_s 4.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.231333
+tx_m 0.0455873 ty_m 0.490569 tz_m 2.72877 rx_m -0.129175 ry_m -0.396998 rz_m 0.139459 distance_m 2.77289
+frame_id 585 time_s 4.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.123417
+tx_m 0.0424741 ty_m 0.487271 tz_m 2.71387 rx_m -0.144202 ry_m -0.400334 rz_m 0.151147 distance_m 2.7576
+frame_id 586 time_s 4.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.212896
+tx_m 0.0379714 ty_m 0.486981 tz_m 2.71213 rx_m -0.144285 ry_m -0.452804 rz_m 0.157819 distance_m 2.75576
+frame_id 587 time_s 4.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.24916
+tx_m 0.0322772 ty_m 0.472416 tz_m 2.63493 rx_m -0.118856 ry_m -0.53332 rz_m 0.172111 distance_m 2.67714
+frame_id 588 time_s 4.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.216084
+tx_m 0.027685 ty_m 0.464475 tz_m 2.59123 rx_m -0.132667 ry_m -0.615439 rz_m 0.161107 distance_m 2.63268
+frame_id 589 time_s 4.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.283662
+tx_m 0.0243205 ty_m 0.486302 tz_m 2.72214 rx_m -0.208511 ry_m 0.585122 rz_m 0.0579073 distance_m 2.76535
+frame_id 590 time_s 4.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.233339
+tx_m 0.0197889 ty_m 0.487643 tz_m 2.72962 rx_m -0.208313 ry_m 0.619514 rz_m 0.0555642 distance_m 2.77291
+frame_id 591 time_s 4.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.247799
+tx_m 0.0159609 ty_m 0.487519 tz_m 2.72889 rx_m -0.207805 ry_m 0.637581 rz_m 0.0548821 distance_m 2.77214
+frame_id 592 time_s 4.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.258877
+tx_m 0.0124554 ty_m 0.499189 tz_m 2.79832 rx_m -0.207302 ry_m 0.621278 rz_m 0.058962 distance_m 2.84253
+frame_id 593 time_s 4.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.208655
+tx_m 0.00901921 ty_m 0.481268 tz_m 2.70566 rx_m -0.115166 ry_m -0.652052 rz_m 0.192729 distance_m 2.74815
+frame_id 594 time_s 4.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.19124
+tx_m 0.00569204 ty_m 0.468859 tz_m 2.6358 rx_m -0.111766 ry_m -0.691949 rz_m 0.1833 distance_m 2.67719
+frame_id 595 time_s 4.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.277945
+tx_m 0.0027826 ty_m 0.483443 tz_m 2.72202 rx_m -0.10842 ry_m -0.722762 rz_m 0.18955 distance_m 2.76462
+frame_id 596 time_s 4.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.267559
+tx_m -0.00191816 ty_m 0.481715 tz_m 2.71296 rx_m -0.224629 ry_m 0.750183 rz_m 0.0606358 distance_m 2.7554
+frame_id 597 time_s 4.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.28372
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 598 time_s 4.98333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 599 time_s 4.99167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 600 time_s 5	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 601 time_s 5.00833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 602 time_s 5.01667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 603 time_s 5.025	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 604 time_s 5.03333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 605 time_s 5.04167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 606 time_s 5.05	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 607 time_s 5.05833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 608 time_s 5.06667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 609 time_s 5.075	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 610 time_s 5.08333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 611 time_s 5.09167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 612 time_s 5.1	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 613 time_s 5.10833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.428839 ty_m 0.28062 tz_m 2.82568 rx_m -0.0956032 ry_m -0.624339 rz_m 0.00383706 distance_m 2.87178
+frame_id 614 time_s 5.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.252731
+tx_m 0.427835 ty_m 0.282783 tz_m 2.84038 rx_m -0.086318 ry_m -0.561736 rz_m 0.0178826 distance_m 2.8863
+frame_id 615 time_s 5.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.228632
+tx_m 0.405569 ty_m 0.269408 tz_m 2.71227 rx_m -0.115783 ry_m -0.570345 rz_m -0.0474744 distance_m 2.75562
+frame_id 616 time_s 5.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.255488
+tx_m 0.400312 ty_m 0.269013 tz_m 2.70777 rx_m -0.112983 ry_m -0.540928 rz_m -0.0467245 distance_m 2.75039
+frame_id 617 time_s 5.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.245007
+tx_m 0.391667 ty_m 0.264898 tz_m 2.67981 rx_m -0.121428 ry_m -0.497871 rz_m -0.0780826 distance_m 2.7212
+frame_id 618 time_s 5.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.233802
+tx_m 0.39103 ty_m 0.266367 tz_m 2.69647 rx_m -0.120834 ry_m -0.490416 rz_m -0.0787123 distance_m 2.73767
+frame_id 619 time_s 5.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.227891
+tx_m 0.386032 ty_m 0.266924 tz_m 2.69347 rx_m -0.11249 ry_m -0.469853 rz_m -0.0616528 distance_m 2.73405
+frame_id 620 time_s 5.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.219562
+tx_m 0.393005 ty_m 0.273878 tz_m 2.7647 rx_m -0.109956 ry_m -0.377301 rz_m -0.0814239 distance_m 2.8059
+frame_id 621 time_s 5.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172442
+tx_m 0.378909 ty_m 0.268111 tz_m 2.69193 rx_m -0.115625 ry_m -0.387066 rz_m -0.0938005 distance_m 2.73166
+frame_id 622 time_s 5.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.186388
+tx_m 0.373368 ty_m 0.267503 tz_m 2.685 rx_m -0.110975 ry_m -0.350214 rz_m -0.0928861 distance_m 2.724
+frame_id 623 time_s 5.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.171479
+tx_m 0.368581 ty_m 0.268736 tz_m 2.68873 rx_m -0.105303 ry_m -0.342432 rz_m -0.0761247 distance_m 2.72715
+frame_id 624 time_s 5.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.167116
+tx_m 0.368721 ty_m 0.27166 tz_m 2.7123 rx_m -0.101173 ry_m -0.340683 rz_m -0.0622433 distance_m 2.75069
+frame_id 625 time_s 5.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163048
+tx_m 0.36425 ty_m 0.271781 tz_m 2.71358 rx_m -0.0961437 ry_m -0.291495 rz_m -0.0630844 distance_m 2.75137
+frame_id 626 time_s 5.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.141862
+tx_m 0.360858 ty_m 0.273412 tz_m 2.72314 rx_m -0.0878828 ry_m -0.243731 rz_m -0.051392 distance_m 2.76052
+frame_id 627 time_s 5.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.119968
+tx_m 0.355514 ty_m 0.272905 tz_m 2.7181 rx_m -0.0806524 ry_m -0.184306 rz_m -0.0542689 distance_m 2.7548
+frame_id 628 time_s 5.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0943811
+tx_m 0.342059 ty_m 0.26805 tz_m 2.65451 rx_m -0.0842717 ry_m -0.237639 rz_m -0.035936 distance_m 2.68984
+frame_id 629 time_s 5.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.122967
+tx_m 0.335574 ty_m 0.267913 tz_m 2.64494 rx_m -0.0831953 ry_m -0.201313 rz_m -0.0496466 distance_m 2.67957
+frame_id 630 time_s 5.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10743
+tx_m 0.340628 ty_m 0.274313 tz_m 2.71695 rx_m -0.052642 ry_m -0.0542463 rz_m -0.0604718 distance_m 2.75192
+frame_id 631 time_s 5.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0355973
+tx_m 0.335144 ty_m 0.27499 tz_m 2.71537 rx_m -0.0650341 ry_m -0.0878045 rz_m -0.0701573 distance_m 2.74976
+frame_id 632 time_s 5.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0515735
+tx_m 0.328577 ty_m 0.273414 tz_m 2.70073 rx_m 0.00203639 ry_m 0.0255128 rz_m -0.0802474 distance_m 2.73435
+frame_id 633 time_s 5.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00921371
+tx_m 0.324275 ty_m 0.275725 tz_m 2.71541 rx_m -0.0131484 ry_m 0.0125868 rz_m -0.063916 distance_m 2.74857
+frame_id 634 time_s 5.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 8.63167e-05
+tx_m 0.313772 ty_m 0.270642 tz_m 2.66596 rx_m 0.105184 ry_m 0.0622463 rz_m -0.0731954 distance_m 2.69797
+frame_id 635 time_s 5.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0606799
+tx_m 0.305947 ty_m 0.269704 tz_m 2.64902 rx_m -0.0312366 ry_m -0.00936347 rz_m -0.0601688 distance_m 2.68024
+frame_id 636 time_s 5.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0135552
+tx_m 0.298212 ty_m 0.267553 tz_m 2.62142 rx_m 0.0738245 ry_m 0.0552257 rz_m -0.0568933 distance_m 2.65186
+frame_id 637 time_s 5.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0475636
+tx_m 0.292425 ty_m 0.267716 tz_m 2.62241 rx_m 0.0737713 ry_m 0.0541636 rz_m -0.0555367 distance_m 2.65221
+frame_id 638 time_s 5.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0472965
+tx_m 0.281604 ty_m 0.262406 tz_m 2.56412 rx_m 0.0515744 ry_m 0.0470474 rz_m -0.0539349 distance_m 2.59285
+frame_id 639 time_s 5.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0378299
+tx_m 0.275875 ty_m 0.262471 tz_m 2.5645 rx_m 0.0518298 ry_m 0.0461258 rz_m -0.0532542 distance_m 2.59261
+frame_id 640 time_s 5.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0377383
+tx_m 0.269307 ty_m 0.261139 tz_m 2.55734 rx_m 0.251727 ry_m 0.0668009 rz_m -0.0755252 distance_m 2.58471
+frame_id 641 time_s 5.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.137257
+tx_m 0.260779 ty_m 0.257619 tz_m 2.51684 rx_m 0.300017 ry_m 0.0694984 rz_m -0.0660819 distance_m 2.5434
+frame_id 642 time_s 5.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165976
+tx_m 0.255079 ty_m 0.257513 tz_m 2.5165 rx_m 0.306476 ry_m 0.0678926 rz_m -0.0659672 distance_m 2.54247
+frame_id 643 time_s 5.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.169045
+tx_m 0.250659 ty_m 0.259519 tz_m 2.52901 rx_m 0.302064 ry_m 0.0690641 rz_m -0.0533576 distance_m 2.55462
+frame_id 644 time_s 5.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165336
+tx_m 0.244976 ty_m 0.259542 tz_m 2.52906 rx_m 0.30235 ry_m 0.0674253 rz_m -0.0525413 distance_m 2.55412
+frame_id 645 time_s 5.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165306
+tx_m 0.239152 ty_m 0.260075 tz_m 2.52755 rx_m 0.234468 ry_m 0.0633971 rz_m -0.0489141 distance_m 2.55212
+frame_id 646 time_s 5.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13163
+tx_m 0.23005 ty_m 0.254694 tz_m 2.47559 rx_m 0.288587 ry_m 0.0639894 rz_m -0.0511607 distance_m 2.49927
+frame_id 647 time_s 5.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165205
+tx_m 0.224454 ty_m 0.254656 tz_m 2.47527 rx_m 0.288987 ry_m 0.062268 rz_m -0.050763 distance_m 2.49844
+frame_id 648 time_s 5.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165275
+tx_m 0.21886 ty_m 0.254618 tz_m 2.47496 rx_m 0.289378 ry_m 0.0605452 rz_m -0.050364 distance_m 2.49763
+frame_id 649 time_s 5.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165386
+tx_m 0.214285 ty_m 0.256491 tz_m 2.48645 rx_m 0.285179 ry_m 0.0613976 rz_m -0.0384522 distance_m 2.50882
+frame_id 650 time_s 5.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.161789
+tx_m 0.208669 ty_m 0.256455 tz_m 2.48615 rx_m 0.285551 ry_m 0.0596729 rz_m -0.0380563 distance_m 2.50804
+frame_id 651 time_s 5.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.161867
+tx_m 0.204047 ty_m 0.257698 tz_m 2.49806 rx_m 0.343308 ry_m 0.0622799 rz_m -0.0286123 distance_m 2.5196
+frame_id 652 time_s 5.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.189499
+tx_m 0.198378 ty_m 0.258306 tz_m 2.49733 rx_m 0.282116 ry_m 0.0587917 rz_m -0.0256382 distance_m 2.51848
+frame_id 653 time_s 5.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158611
+tx_m 0.193617 ty_m 0.258732 tz_m 2.50842 rx_m 0.279326 ry_m 0.0596317 rz_m -0.0139032 distance_m 2.52915
+frame_id 654 time_s 5.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155871
+tx_m 0.187957 ty_m 0.258698 tz_m 2.50813 rx_m 0.279657 ry_m 0.0579006 rz_m -0.0135121 distance_m 2.52843
+frame_id 655 time_s 5.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.155913
+tx_m 0.182303 ty_m 0.257986 tz_m 2.50798 rx_m 0.342371 ry_m 0.0581113 rz_m -0.0155163 distance_m 2.52779
+frame_id 656 time_s 5.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187229
+tx_m 0.176647 ty_m 0.257954 tz_m 2.5077 rx_m 0.342641 ry_m 0.056316 rz_m -0.0150473 distance_m 2.52711
+frame_id 657 time_s 5.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187275
+tx_m 0.170993 ty_m 0.257922 tz_m 2.50743 rx_m 0.342902 ry_m 0.0545201 rz_m -0.0145774 distance_m 2.52646
+frame_id 658 time_s 5.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187314
+tx_m 0.16534 ty_m 0.257892 tz_m 2.50717 rx_m 0.343155 ry_m 0.0527236 rz_m -0.0141065 distance_m 2.52582
+frame_id 659 time_s 5.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187369
+tx_m 0.159687 ty_m 0.258542 tz_m 2.50682 rx_m 0.281167 ry_m 0.0492316 rz_m -0.0115393 distance_m 2.52517
+frame_id 660 time_s 5.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.156157
+tx_m 0.154039 ty_m 0.258514 tz_m 2.50658 rx_m 0.281441 ry_m 0.0474953 rz_m -0.0111414 distance_m 2.52458
+frame_id 661 time_s 5.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.156204
+tx_m 0.150668 ty_m 0.261197 tz_m 2.53271 rx_m 0.254887 ry_m 0.0451023 rz_m -0.00993915 distance_m 2.5506
+frame_id 662 time_s 5.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13964
+tx_m 0.147226 ty_m 0.263937 tz_m 2.55939 rx_m 0.225666 ry_m 0.0425021 rz_m -0.00870291 distance_m 2.57718
+frame_id 663 time_s 5.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.122199
+tx_m 0.141261 ty_m 0.264035 tz_m 2.55333 rx_m 0.225819 ry_m 0.0600663 rz_m -0.000575397 distance_m 2.57083
+frame_id 664 time_s 5.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0247037
+tx_m 0.135511 ty_m 0.264008 tz_m 2.55309 rx_m 0.226116 ry_m 0.0583915 rz_m -0.000243941 distance_m 2.57028
+frame_id 665 time_s 5.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0241953
+tx_m 0.128424 ty_m 0.260719 tz_m 2.5277 rx_m 0.307549 ry_m 0.0565373 rz_m 0.0219868 distance_m 2.54436
+frame_id 666 time_s 5.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102383
+tx_m 0.122747 ty_m 0.260049 tz_m 2.52801 rx_m 0.36678 ry_m 0.0549477 rz_m 0.0209999 distance_m 2.54431
+frame_id 667 time_s 5.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.139885
+tx_m 0.115905 ty_m 0.256988 tz_m 2.5077 rx_m -0.575524 ry_m 0.054676 rz_m 0.0592158 distance_m 2.5235
+frame_id 668 time_s 5.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.208898
+tx_m 0.115174 ty_m 0.265385 tz_m 2.58028 rx_m 0.172883 ry_m 0.0532137 rz_m 0.0269511 distance_m 2.59644
+frame_id 669 time_s 5.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0131885
+tx_m 0.109365 ty_m 0.265373 tz_m 2.58006 rx_m 0.17148 ry_m 0.0524943 rz_m 0.0272935 distance_m 2.59598
+frame_id 670 time_s 5.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0125639
+tx_m 0.10356 ty_m 0.26535 tz_m 2.57986 rx_m 0.171754 ry_m 0.0509146 rz_m 0.0275589 distance_m 2.59554
+frame_id 671 time_s 5.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0129223
+tx_m 0.101359 ty_m 0.271045 tz_m 2.63551 rx_m 0.0805683 ry_m 0.0537696 rz_m 0.0301045 distance_m 2.65134
+frame_id 672 time_s 5.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.044407
+tx_m 0.0954296 ty_m 0.271022 tz_m 2.6353 rx_m 0.0809961 ry_m 0.0525065 rz_m 0.0302476 distance_m 2.65092
+frame_id 673 time_s 5.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0442788
+tx_m 0.0897686 ty_m 0.267672 tz_m 2.61048 rx_m -0.0902553 ry_m 0.284672 rz_m 0.0216469 distance_m 2.6257
+frame_id 674 time_s 5.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.180967
+tx_m 0.0839047 ty_m 0.267669 tz_m 2.61047 rx_m -0.0895891 ry_m 0.282215 rz_m 0.0216566 distance_m 2.6255
+frame_id 675 time_s 5.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.180116
+tx_m 0.0780019 ty_m 0.267507 tz_m 2.60903 rx_m -0.088931 ry_m 0.281534 rz_m 0.0218262 distance_m 2.62386
+frame_id 676 time_s 5.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.189076
+tx_m 0.0730979 ty_m 0.265949 tz_m 2.60067 rx_m -0.116993 ry_m 0.338802 rz_m 0.0359475 distance_m 2.61526
+frame_id 677 time_s 5.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143648
+tx_m 0.0686344 ty_m 0.265889 tz_m 2.6001 rx_m -0.114892 ry_m 0.401578 rz_m 0.0334561 distance_m 2.61456
+frame_id 678 time_s 5.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.173882
+tx_m 0.0627949 ty_m 0.265891 tz_m 2.60013 rx_m -0.114491 ry_m 0.399186 rz_m 0.0334367 distance_m 2.61445
+frame_id 679 time_s 5.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17287
+tx_m 0.059984 ty_m 0.27211 tz_m 2.66824 rx_m -0.114056 ry_m 0.391391 rz_m 0.0352233 distance_m 2.68275
+frame_id 680 time_s 5.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158999
+tx_m 0.0543377 ty_m 0.270487 tz_m 2.65915 rx_m -0.134434 ry_m 0.404218 rz_m 0.0516147 distance_m 2.67342
+frame_id 681 time_s 5.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.172773
+tx_m 0.050449 ty_m 0.276656 tz_m 2.7275 rx_m -0.136975 ry_m 0.366915 rz_m 0.0553346 distance_m 2.74196
+frame_id 682 time_s 5.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165461
+tx_m 0.0472944 ty_m 0.274506 tz_m 2.71275 rx_m -0.115258 ry_m 0.371729 rz_m 0.0654458 distance_m 2.72701
+frame_id 683 time_s 5.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.111659
+tx_m 0.0426609 ty_m 0.274367 tz_m 2.71134 rx_m -0.114392 ry_m 0.430706 rz_m 0.0638135 distance_m 2.72552
+frame_id 684 time_s 5.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.140593
+tx_m 0.0373375 ty_m 0.276623 tz_m 2.72665 rx_m -0.129723 ry_m 0.451349 rz_m 0.052158 distance_m 2.7409
+frame_id 685 time_s 5.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.159322
+tx_m 0.0325053 ty_m 0.27327 tz_m 2.7078 rx_m -0.133578 ry_m 0.485478 rz_m 0.0797524 distance_m 2.72175
+frame_id 686 time_s 5.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.193147
+tx_m 0.0266944 ty_m 0.266756 tz_m 2.64407 rx_m -0.11527 ry_m 0.565799 rz_m 0.0584258 distance_m 2.65762
+frame_id 687 time_s 5.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.267958
+tx_m 0.0228285 ty_m 0.266537 tz_m 2.64945 rx_m -0.123778 ry_m 0.587513 rz_m 0.0474687 distance_m 2.66292
+frame_id 688 time_s 5.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.228509
+tx_m 0.019661 ty_m 0.27289 tz_m 2.72013 rx_m -0.124184 ry_m 0.565818 rz_m 0.0501369 distance_m 2.73386
+frame_id 689 time_s 5.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.206396
+tx_m 0.0158673 ty_m 0.273345 tz_m 2.72461 rx_m -0.123882 ry_m 0.622555 rz_m 0.0485719 distance_m 2.73834
+frame_id 690 time_s 5.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.22552
+tx_m 0.0112872 ty_m 0.273209 tz_m 2.72318 rx_m -0.123448 ry_m 0.659043 rz_m 0.0482027 distance_m 2.73687
+frame_id 691 time_s 5.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.239773
+tx_m 0.00819859 ty_m 0.272626 tz_m 2.71675 rx_m -0.121999 ry_m 0.661098 rz_m 0.0484867 distance_m 2.7304
+frame_id 692 time_s 5.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.20071
+tx_m 0.00442556 ty_m 0.273404 tz_m 2.72472 rx_m -0.123017 ry_m 0.709115 rz_m 0.0472874 distance_m 2.7384
+frame_id 693 time_s 5.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.238748
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 694 time_s 5.78333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 695 time_s 5.79167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 696 time_s 5.8	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 697 time_s 5.80833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 698 time_s 5.81667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 699 time_s 5.825	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 700 time_s 5.83333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 701 time_s 5.84167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 702 time_s 5.85	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 703 time_s 5.85833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 704 time_s 5.86667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 705 time_s 5.875	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 706 time_s 5.88333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 707 time_s 5.89167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 708 time_s 5.9	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 709 time_s 5.90833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 710 time_s 5.91667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.431165 ty_m 0.382991 tz_m 2.82911 rx_m -0.125787 ry_m -0.654428 rz_m 0.0184079 distance_m 2.88729
+frame_id 711 time_s 5.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.263323
+tx_m 0.421339 ty_m 0.374907 tz_m 2.7797 rx_m -0.158076 ry_m -0.61209 rz_m -0.0552288 distance_m 2.83633
+frame_id 712 time_s 5.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.260445
+tx_m 0.416966 ty_m 0.375196 tz_m 2.78199 rx_m -0.154256 ry_m -0.581099 rz_m -0.0543055 distance_m 2.83798
+frame_id 713 time_s 5.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.249104
+tx_m 0.405433 ty_m 0.368384 tz_m 2.72018 rx_m -0.146713 ry_m -0.601495 rz_m -0.0324648 distance_m 2.77479
+frame_id 714 time_s 5.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.267344
+tx_m 0.401075 ty_m 0.368601 tz_m 2.72193 rx_m -0.143789 ry_m -0.5703 rz_m -0.0324696 distance_m 2.7759
+frame_id 715 time_s 5.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.255469
+tx_m 0.387854 ty_m 0.36053 tz_m 2.6574 rx_m -0.144104 ry_m -0.581545 rz_m -0.030201 distance_m 2.70964
+frame_id 716 time_s 5.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.272278
+tx_m 0.382062 ty_m 0.359445 tz_m 2.64311 rx_m -0.149659 ry_m -0.562321 rz_m -0.045897 distance_m 2.69466
+frame_id 717 time_s 5.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.268182
+tx_m 0.388336 ty_m 0.369004 tz_m 2.70836 rx_m -0.141784 ry_m -0.462264 rz_m -0.0515915 distance_m 2.76083
+frame_id 718 time_s 5.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.216693
+tx_m 0.38766 ty_m 0.37195 tz_m 2.72521 rx_m -0.136534 ry_m -0.466325 rz_m -0.0361527 distance_m 2.77766
+frame_id 719 time_s 5.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.215072
+tx_m 0.383216 ty_m 0.372131 tz_m 2.72662 rx_m -0.13313 ry_m -0.427856 rz_m -0.0371073 distance_m 2.77845
+frame_id 720 time_s 6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.199557
+tx_m 0.377454 ty_m 0.371824 tz_m 2.71857 rx_m -0.133853 ry_m -0.379366 rz_m -0.0533165 distance_m 2.76972
+frame_id 721 time_s 6.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.181505
+tx_m 0.39245 ty_m 0.390871 tz_m 2.86334 rx_m -0.115067 ry_m -0.20109 rz_m -0.080227 distance_m 2.91642
+frame_id 722 time_s 6.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0962083
+tx_m 0.378055 ty_m 0.381127 tz_m 2.78582 rx_m -0.129527 ry_m -0.299028 rz_m -0.0718239 distance_m 2.83707
+frame_id 723 time_s 6.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.141441
+tx_m 0.385582 ty_m 0.395256 tz_m 2.88432 rx_m -0.112499 ry_m -0.222391 rz_m -0.0499893 distance_m 2.9367
+frame_id 724 time_s 6.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102036
+tx_m 0.380616 ty_m 0.395262 tz_m 2.88441 rx_m -0.0995024 ry_m -0.148826 rz_m -0.0542585 distance_m 2.93614
+frame_id 725 time_s 6.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0734917
+tx_m 0.37668 ty_m 0.397161 tz_m 2.89263 rx_m -0.0726838 ry_m -0.0645623 rz_m -0.0463246 distance_m 2.94397
+frame_id 726 time_s 6.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0388046
+tx_m 0.334726 ty_m 0.360019 tz_m 2.60111 rx_m -0.119362 ry_m -0.311553 rz_m -0.0238742 distance_m 2.64716
+frame_id 727 time_s 6.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.166125
+tx_m 0.331095 ty_m 0.362288 tz_m 2.61272 rx_m -0.118515 ry_m -0.34124 rz_m -0.009087 distance_m 2.65841
+frame_id 728 time_s 6.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.177567
+tx_m 0.334471 ty_m 0.369513 tz_m 2.67025 rx_m -0.115534 ry_m -0.238504 rz_m -0.0430824 distance_m 2.71636
+frame_id 729 time_s 6.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.125973
+tx_m 0.337065 ty_m 0.377783 tz_m 2.73016 rx_m -0.0733961 ry_m -0.055191 rz_m -0.0715041 distance_m 2.7767
+frame_id 730 time_s 6.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0401208
+tx_m 0.33204 ty_m 0.379831 tz_m 2.73919 rx_m -0.0800364 ry_m -0.0738204 rz_m -0.0557052 distance_m 2.78526
+frame_id 731 time_s 6.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0481861
+tx_m 0.326189 ty_m 0.37935 tz_m 2.73019 rx_m -0.015338 ry_m 0.0144804 rz_m -0.0513786 distance_m 2.77565
+frame_id 732 time_s 6.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00111259
+tx_m 0.320045 ty_m 0.379346 tz_m 2.73024 rx_m -0.0152562 ry_m 0.0141777 rz_m -0.0513784 distance_m 2.77499
+frame_id 733 time_s 6.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00105591
+tx_m 0.307893 ty_m 0.370978 tz_m 2.66473 rx_m -0.0353094 ry_m -0.00265244 rz_m -0.0477954 distance_m 2.70799
+frame_id 734 time_s 6.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0113814
+tx_m 0.296524 ty_m 0.365529 tz_m 2.61539 rx_m -0.0952413 ry_m -0.134389 rz_m -0.0225825 distance_m 2.65741
+frame_id 735 time_s 6.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0815588
+tx_m 0.291498 ty_m 0.367308 tz_m 2.62302 rx_m -0.095969 ry_m -0.146015 rz_m -0.00934857 distance_m 2.66461
+frame_id 736 time_s 6.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0861206
+tx_m 0.286423 ty_m 0.36669 tz_m 2.61857 rx_m -0.0672969 ry_m -0.0504306 rz_m -0.0171837 distance_m 2.65959
+frame_id 737 time_s 6.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0395892
+tx_m 0.280551 ty_m 0.366711 tz_m 2.6188 rx_m -0.0680317 ry_m -0.0510702 rz_m -0.0171748 distance_m 2.65919
+frame_id 738 time_s 6.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0399929
+tx_m 0.274234 ty_m 0.365282 tz_m 2.60868 rx_m -0.0284675 ry_m 0.00247901 rz_m -0.023094 distance_m 2.64837
+frame_id 739 time_s 6.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00741332
+tx_m 0.268194 ty_m 0.364855 tz_m 2.60042 rx_m 0.0160272 ry_m 0.0297126 rz_m -0.014954 distance_m 2.63955
+frame_id 740 time_s 6.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187794
+tx_m 0.262345 ty_m 0.364862 tz_m 2.60047 rx_m 0.0163055 ry_m 0.0291274 rz_m -0.0147652 distance_m 2.63902
+frame_id 741 time_s 6.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.018775
+tx_m 0.25769 ty_m 0.367263 tz_m 2.61255 rx_m 0.00643701 ry_m 0.0245434 rz_m -0.0020402 distance_m 2.65079
+frame_id 742 time_s 6.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0132535
+tx_m 0.250095 ty_m 0.36376 tz_m 2.58757 rx_m 0.060554 ry_m 0.0431818 rz_m -0.00594846 distance_m 2.62496
+frame_id 743 time_s 6.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0421304
+tx_m 0.241384 ty_m 0.358482 tz_m 2.54979 rx_m 0.197949 ry_m 0.0602479 rz_m -0.0254296 distance_m 2.58615
+frame_id 744 time_s 6.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112992
+tx_m 0.235632 ty_m 0.35846 tz_m 2.54962 rx_m 0.198309 ry_m 0.0588123 rz_m -0.0249846 distance_m 2.58546
+frame_id 745 time_s 6.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.113003
+tx_m 0.22988 ty_m 0.358438 tz_m 2.54947 rx_m 0.198674 ry_m 0.0573647 rz_m -0.02454 distance_m 2.58478
+frame_id 746 time_s 6.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.113045
+tx_m 0.224119 ty_m 0.358375 tz_m 2.54919 rx_m 0.200827 ry_m 0.0560238 rz_m -0.0243161 distance_m 2.58399
+frame_id 747 time_s 6.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.113974
+tx_m 0.218359 ty_m 0.358327 tz_m 2.5489 rx_m 0.201216 ry_m 0.0545479 rz_m -0.0240024 distance_m 2.58321
+frame_id 748 time_s 6.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.114041
+tx_m 0.213602 ty_m 0.360686 tz_m 2.56062 rx_m 0.195346 ry_m 0.0549536 rz_m -0.0120481 distance_m 2.59471
+frame_id 749 time_s 6.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110169
+tx_m 0.207819 ty_m 0.36064 tz_m 2.56035 rx_m 0.195719 ry_m 0.0534841 rz_m -0.0117403 distance_m 2.59396
+frame_id 750 time_s 6.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110217
+tx_m 0.202039 ty_m 0.360595 tz_m 2.56008 rx_m 0.196082 ry_m 0.0520129 rz_m -0.011431 distance_m 2.59323
+frame_id 751 time_s 6.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110266
+tx_m 0.19626 ty_m 0.360552 tz_m 2.55981 rx_m 0.196435 ry_m 0.0505401 rz_m -0.0111203 distance_m 2.59252
+frame_id 752 time_s 6.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.110318
+tx_m 0.190211 ty_m 0.359045 tz_m 2.55426 rx_m 0.197354 ry_m 0.0675035 rz_m -0.00337171 distance_m 2.58638
+frame_id 753 time_s 6.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0288431
+tx_m 0.184445 ty_m 0.358999 tz_m 2.55398 rx_m 0.197719 ry_m 0.0660119 rz_m -0.00305994 distance_m 2.58567
+frame_id 754 time_s 6.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0282555
+tx_m 0.178682 ty_m 0.358954 tz_m 2.5537 rx_m 0.198075 ry_m 0.0645149 rz_m -0.00274579 distance_m 2.58498
+frame_id 755 time_s 6.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.027658
+tx_m 0.171353 ty_m 0.357375 tz_m 2.53244 rx_m 0.130118 ry_m 0.0370077 rz_m 0.0167866 distance_m 2.56327
+frame_id 756 time_s 6.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107795
+tx_m 0.165644 ty_m 0.357342 tz_m 2.53224 rx_m 0.130452 ry_m 0.0357166 rz_m 0.0170115 distance_m 2.56269
+frame_id 757 time_s 6.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107829
+tx_m 0.159937 ty_m 0.357309 tz_m 2.53205 rx_m 0.130771 ry_m 0.0344169 rz_m 0.0172384 distance_m 2.56213
+frame_id 758 time_s 6.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107885
+tx_m 0.154232 ty_m 0.357278 tz_m 2.53186 rx_m 0.131081 ry_m 0.0331166 rz_m 0.0174666 distance_m 2.56159
+frame_id 759 time_s 6.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107923
+tx_m 0.148528 ty_m 0.357247 tz_m 2.53168 rx_m 0.131379 ry_m 0.0318139 rz_m 0.017696 distance_m 2.56107
+frame_id 760 time_s 6.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.107954
+tx_m 0.142826 ty_m 0.35723 tz_m 2.53153 rx_m 0.130532 ry_m 0.0309427 rz_m 0.0179799 distance_m 2.5606
+frame_id 761 time_s 6.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.106667
+tx_m 0.137117 ty_m 0.357154 tz_m 2.53108 rx_m 0.127494 ry_m 0.029714 rz_m 0.0186663 distance_m 2.55983
+frame_id 762 time_s 6.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.100638
+tx_m 0.133525 ty_m 0.360875 tz_m 2.55751 rx_m 0.0878059 ry_m 0.023967 rz_m 0.0203399 distance_m 2.5863
+frame_id 763 time_s 6.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0778673
+tx_m 0.129684 ty_m 0.363166 tz_m 2.57884 rx_m 0.0407801 ry_m 0.0478297 rz_m 0.0290921 distance_m 2.60752
+frame_id 764 time_s 6.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0622579
+tx_m 0.123286 ty_m 0.359361 tz_m 2.55166 rx_m 0.0889455 ry_m 0.0492999 rz_m 0.0275364 distance_m 2.57979
+frame_id 765 time_s 6.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0316516
+tx_m 0.117539 ty_m 0.359329 tz_m 2.55146 rx_m 0.0893114 ry_m 0.0481444 rz_m 0.0277057 distance_m 2.57932
+frame_id 766 time_s 6.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0314384
+tx_m 0.115659 ty_m 0.366933 tz_m 2.60572 rx_m -0.0287101 ry_m 0.0461775 rz_m 0.0313503 distance_m 2.63397
+frame_id 767 time_s 6.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102312
+tx_m 0.109353 ty_m 0.363081 tz_m 2.57816 rx_m 0.0373317 ry_m 0.0476546 rz_m 0.0294707 distance_m 2.60589
+frame_id 768 time_s 6.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0633235
+tx_m 0.102533 ty_m 0.359302 tz_m 2.55618 rx_m 0.0601778 ry_m 0.0136417 rz_m 0.0466882 distance_m 2.58334
+frame_id 769 time_s 6.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0892625
+tx_m 0.100165 ty_m 0.365174 tz_m 2.60324 rx_m -0.0820285 ry_m 0.0382069 rz_m 0.0582152 distance_m 2.63063
+frame_id 770 time_s 6.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.123901
+tx_m 0.0932573 ty_m 0.36079 tz_m 2.57674 rx_m -0.0330296 ry_m -0.0217997 rz_m 0.0765996 distance_m 2.60355
+frame_id 771 time_s 6.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0552102
+tx_m 0.0895194 ty_m 0.36487 tz_m 2.60134 rx_m -0.135788 ry_m 0.249861 rz_m 0.0449015 distance_m 2.62833
+frame_id 772 time_s 6.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.176084
+tx_m 0.0837946 ty_m 0.362691 tz_m 2.59035 rx_m -0.0980842 ry_m -0.150157 rz_m 0.0880218 distance_m 2.61696
+frame_id 773 time_s 6.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0944337
+tx_m 0.0786789 ty_m 0.362635 tz_m 2.59045 rx_m -0.164963 ry_m 0.314307 rz_m 0.0578993 distance_m 2.6169
+frame_id 774 time_s 6.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.144486
+tx_m 0.0728371 ty_m 0.361009 tz_m 2.58371 rx_m -0.141364 ry_m 0.310418 rz_m 0.0670552 distance_m 2.60983
+frame_id 775 time_s 6.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.206837
+tx_m 0.0689965 ty_m 0.360304 tz_m 2.5779 rx_m -0.0899934 ry_m -0.300061 rz_m 0.116437 distance_m 2.60387
+frame_id 776 time_s 6.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.169972
+tx_m 0.063206 ty_m 0.360321 tz_m 2.57804 rx_m -0.0907598 ry_m -0.301981 rz_m 0.116484 distance_m 2.60387
+frame_id 777 time_s 6.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.170456
+tx_m 0.0603503 ty_m 0.367198 tz_m 2.63743 rx_m -0.105372 ry_m -0.292603 rz_m 0.128563 distance_m 2.66355
+frame_id 778 time_s 6.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147033
+tx_m 0.0561788 ty_m 0.366125 tz_m 2.63002 rx_m -0.161379 ry_m 0.360068 rz_m 0.0845118 distance_m 2.65598
+frame_id 779 time_s 6.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.133194
+tx_m 0.0517051 ty_m 0.375067 tz_m 2.69964 rx_m -0.164827 ry_m 0.27199 rz_m 0.0916549 distance_m 2.72606
+frame_id 780 time_s 6.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0797906
+tx_m 0.0466201 ty_m 0.372199 tz_m 2.68398 rx_m -0.186887 ry_m 0.335022 rz_m 0.106249 distance_m 2.71007
+frame_id 781 time_s 6.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13859
+tx_m 0.0427515 ty_m 0.365381 tz_m 2.63475 rx_m -0.10815 ry_m -0.415354 rz_m 0.140345 distance_m 2.66031
+frame_id 782 time_s 6.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.222108
+tx_m 0.0375292 ty_m 0.355229 tz_m 2.56653 rx_m -0.107107 ry_m -0.509815 rz_m 0.147495 distance_m 2.59127
+frame_id 783 time_s 6.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.300124
+tx_m 0.0329969 ty_m 0.354062 tz_m 2.55878 rx_m -0.156499 ry_m 0.558069 rz_m 0.0748729 distance_m 2.58337
+frame_id 784 time_s 6.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.273848
+tx_m 0.0295039 ty_m 0.362779 tz_m 2.62732 rx_m -0.157272 ry_m 0.553963 rz_m 0.0780741 distance_m 2.65241
+frame_id 785 time_s 6.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.284557
+tx_m 0.0258438 ty_m 0.372748 tz_m 2.70496 rx_m -0.157966 ry_m 0.54698 rz_m 0.0806485 distance_m 2.73065
+frame_id 786 time_s 6.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.260755
+tx_m 0.0215835 ty_m 0.371377 tz_m 2.69468 rx_m -0.183383 ry_m 0.561171 rz_m 0.088037 distance_m 2.72024
+frame_id 787 time_s 6.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.230035
+tx_m 0.0178019 ty_m 0.37126 tz_m 2.69377 rx_m -0.182439 ry_m 0.5808 rz_m 0.0877214 distance_m 2.7193
+frame_id 788 time_s 6.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.232512
+tx_m 0.0133112 ty_m 0.372422 tz_m 2.70214 rx_m -0.182115 ry_m 0.614208 rz_m 0.0863023 distance_m 2.72772
+frame_id 789 time_s 6.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.239652
+tx_m 0.0104509 ty_m 0.373733 tz_m 2.70605 rx_m -0.165004 ry_m 0.628111 rz_m 0.0673783 distance_m 2.73176
+frame_id 790 time_s 6.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.171199
+tx_m 0.00735944 ty_m 0.370042 tz_m 2.69444 rx_m -0.0821883 ry_m -0.628387 rz_m 0.174429 distance_m 2.71974
+frame_id 791 time_s 6.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.270522
+tx_m 0.00423141 ty_m 0.367561 tz_m 2.68782 rx_m -0.177451 ry_m 0.690273 rz_m 0.0870156 distance_m 2.71284
+frame_id 792 time_s 6.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.199909
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 793 time_s 6.60833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 794 time_s 6.61667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 795 time_s 6.625	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 796 time_s 6.63333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 797 time_s 6.64167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 798 time_s 6.65	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 799 time_s 6.65833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 800 time_s 6.66667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 801 time_s 6.675	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 802 time_s 6.68333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 803 time_s 6.69167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 804 time_s 6.7	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 805 time_s 6.70833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 806 time_s 6.71667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 807 time_s 6.725	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 808 time_s 6.73333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 809 time_s 6.74167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 810 time_s 6.75	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.423071 ty_m 0.492648 tz_m 2.78374 rx_m -0.196758 ry_m -0.584701 rz_m -0.0561313 distance_m 2.85848
+frame_id 811 time_s 6.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.253461
+tx_m 0.41265 ty_m 0.484627 tz_m 2.74525 rx_m -0.206264 ry_m -0.546326 rz_m -0.0892401 distance_m 2.81807
+frame_id 812 time_s 6.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.248067
+tx_m 0.4111 ty_m 0.482822 tz_m 2.74567 rx_m -0.222278 ry_m -0.455071 rz_m -0.165348 distance_m 2.81795
+frame_id 813 time_s 6.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.217344
+tx_m 0.394048 ty_m 0.468869 tz_m 2.66137 rx_m -0.220973 ry_m -0.463896 rz_m -0.157169 distance_m 2.73094
+frame_id 814 time_s 6.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.234465
+tx_m 0.398982 ty_m 0.48288 tz_m 2.71604 rx_m -0.187195 ry_m -0.517568 rz_m -0.0520763 distance_m 2.78734
+frame_id 815 time_s 6.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.240921
+tx_m 0.395382 ty_m 0.479552 tz_m 2.71774 rx_m -0.206398 ry_m -0.37922 rz_m -0.160975 distance_m 2.7879
+frame_id 816 time_s 6.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.191264
+tx_m 0.381429 ty_m 0.470357 tz_m 2.65232 rx_m -0.204265 ry_m -0.381795 rz_m -0.151177 distance_m 2.72058
+frame_id 817 time_s 6.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.201427
+tx_m 0.382523 ty_m 0.475358 tz_m 2.68143 rx_m -0.200738 ry_m -0.365087 rz_m -0.15034 distance_m 2.74997
+frame_id 818 time_s 6.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.190035
+tx_m 0.376069 ty_m 0.47298 tz_m 2.66809 rx_m -0.194519 ry_m -0.330983 rz_m -0.15166 distance_m 2.73567
+frame_id 819 time_s 6.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.177454
+tx_m 0.37385 ty_m 0.474672 tz_m 2.67441 rx_m -0.183372 ry_m -0.295042 rz_m -0.138927 distance_m 2.74182
+frame_id 820 time_s 6.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.160507
+tx_m 0.363234 ty_m 0.467168 tz_m 2.62479 rx_m -0.183497 ry_m -0.325106 rz_m -0.118932 distance_m 2.69067
+frame_id 821 time_s 6.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.178943
+tx_m 0.363042 ty_m 0.4738 tz_m 2.6567 rx_m -0.170539 ry_m -0.211575 rz_m -0.157549 distance_m 2.72293
+frame_id 822 time_s 6.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.126974
+tx_m 0.359494 ty_m 0.475888 tz_m 2.66442 rx_m -0.153184 ry_m -0.160846 rz_m -0.144807 distance_m 2.73035
+frame_id 823 time_s 6.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102757
+tx_m 0.356121 ty_m 0.478448 tz_m 2.67821 rx_m -0.159709 ry_m -0.185889 rz_m -0.13973 distance_m 2.74382
+frame_id 824 time_s 6.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112613
+tx_m 0.336706 ty_m 0.458304 tz_m 2.55829 rx_m -0.177799 ry_m -0.273483 rz_m -0.127552 distance_m 2.62074
+frame_id 825 time_s 6.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164653
+tx_m 0.339918 ty_m 0.470403 tz_m 2.61767 rx_m -0.153692 ry_m -0.174025 rz_m -0.123621 distance_m 2.68123
+frame_id 826 time_s 6.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.111604
+tx_m 0.33391 ty_m 0.46833 tz_m 2.60611 rx_m -0.133982 ry_m -0.111019 rz_m -0.129111 distance_m 2.66883
+frame_id 827 time_s 6.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0826893
+tx_m 0.336364 ty_m 0.479509 tz_m 2.66736 rx_m -0.0811309 ry_m -0.0221383 rz_m -0.151976 distance_m 2.73091
+frame_id 828 time_s 6.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0325068
+tx_m 0.328832 ty_m 0.475994 tz_m 2.64385 rx_m -0.000684938 ry_m 0.0214597 rz_m -0.143873 distance_m 2.70641
+frame_id 829 time_s 6.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0113876
+tx_m 0.323688 ty_m 0.474446 tz_m 2.63291 rx_m 0.0461067 ry_m 0.0331294 rz_m -0.136447 distance_m 2.69483
+frame_id 830 time_s 6.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0347433
+tx_m 0.316298 ty_m 0.472972 tz_m 2.61994 rx_m -0.0683149 ry_m -0.0137038 rz_m -0.122474 distance_m 2.68101
+frame_id 831 time_s 6.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0261526
+tx_m 0.308303 ty_m 0.468271 tz_m 2.59084 rx_m 0.0147244 ry_m 0.0260326 rz_m -0.118099 distance_m 2.65081
+frame_id 832 time_s 6.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0198696
+tx_m 0.304494 ty_m 0.472223 tz_m 2.60806 rx_m -0.00245002 ry_m 0.0209525 rz_m -0.101489 distance_m 2.6679
+frame_id 833 time_s 6.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0107579
+tx_m 0.291612 ty_m 0.45896 tz_m 2.53503 rx_m 0.238766 ry_m 0.0434927 rz_m -0.14027 distance_m 2.59269
+frame_id 834 time_s 6.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.135608
+tx_m 0.286202 ty_m 0.459569 tz_m 2.53755 rx_m 0.23823 ry_m 0.0428251 rz_m -0.136955 distance_m 2.59466
+frame_id 835 time_s 6.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.135024
+tx_m 0.279515 ty_m 0.454312 tz_m 2.50992 rx_m 0.268075 ry_m 0.0415644 rz_m -0.139492 distance_m 2.56597
+frame_id 836 time_s 6.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.15305
+tx_m 0.278988 ty_m 0.462318 tz_m 2.55033 rx_m 0.246317 ry_m 0.0434088 rz_m -0.126442 distance_m 2.60687
+frame_id 837 time_s 6.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.137656
+tx_m 0.269125 ty_m 0.452925 tz_m 2.49891 rx_m 0.288662 ry_m 0.0427321 rz_m -0.126754 distance_m 2.55385
+frame_id 838 time_s 6.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164908
+tx_m 0.265022 ty_m 0.456301 tz_m 2.51334 rx_m 0.282468 ry_m 0.0448756 rz_m -0.113382 distance_m 2.56814
+frame_id 839 time_s 6.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.160021
+tx_m 0.259165 ty_m 0.456685 tz_m 2.51133 rx_m 0.226367 ry_m 0.0430437 rz_m -0.109305 distance_m 2.56564
+frame_id 840 time_s 7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13178
+tx_m 0.254846 ty_m 0.459783 tz_m 2.52462 rx_m 0.21958 ry_m 0.044256 rz_m -0.0972204 distance_m 2.57877
+frame_id 841 time_s 7.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.127045
+tx_m 0.245433 ty_m 0.450262 tz_m 2.47293 rx_m 0.26504 ry_m 0.0440899 rz_m -0.0989854 distance_m 2.52554
+frame_id 842 time_s 7.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.156179
+tx_m 0.241164 ty_m 0.453436 tz_m 2.48632 rx_m 0.259362 ry_m 0.0458104 rz_m -0.0861539 distance_m 2.53881
+frame_id 843 time_s 7.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151677
+tx_m 0.235616 ty_m 0.453566 tz_m 2.48683 rx_m 0.259417 ry_m 0.0445507 rz_m -0.0849423 distance_m 2.53881
+frame_id 844 time_s 7.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151578
+tx_m 0.228342 ty_m 0.448862 tz_m 2.46131 rx_m 0.280612 ry_m 0.0435928 rz_m -0.0854634 distance_m 2.51231
+frame_id 845 time_s 7.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165757
+tx_m 0.221214 ty_m 0.444249 tz_m 2.43629 rx_m 0.300566 ry_m 0.042467 rz_m -0.0858742 distance_m 2.48633
+frame_id 846 time_s 7.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.179715
+tx_m 0.218598 ty_m 0.448672 tz_m 2.4609 rx_m 0.281178 ry_m 0.0409751 rz_m -0.0846837 distance_m 2.511
+frame_id 847 time_s 7.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165928
+tx_m 0.214097 ty_m 0.451593 tz_m 2.47289 rx_m 0.279782 ry_m 0.04257 rz_m -0.0731044 distance_m 2.52289
+frame_id 848 time_s 7.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163671
+tx_m 0.208564 ty_m 0.451693 tz_m 2.47327 rx_m 0.279842 ry_m 0.0412452 rz_m -0.0720127 distance_m 2.52282
+frame_id 849 time_s 7.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163563
+tx_m 0.206748 ty_m 0.459121 tz_m 2.51038 rx_m 0.256448 ry_m 0.0423096 rz_m -0.0602292 distance_m 2.56038
+frame_id 850 time_s 7.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147035
+tx_m 0.201078 ty_m 0.45907 tz_m 2.51016 rx_m 0.256731 ry_m 0.0408397 rz_m -0.0598128 distance_m 2.5597
+frame_id 851 time_s 7.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147072
+tx_m 0.19541 ty_m 0.459021 tz_m 2.50994 rx_m 0.257008 ry_m 0.0393687 rz_m -0.0593953 distance_m 2.55903
+frame_id 852 time_s 7.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147139
+tx_m 0.189743 ty_m 0.458973 tz_m 2.50972 rx_m 0.257277 ry_m 0.0378968 rz_m -0.0589769 distance_m 2.55839
+frame_id 853 time_s 7.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.147196
+tx_m 0.182916 ty_m 0.45427 tz_m 2.48419 rx_m 0.2761 ry_m 0.037091 rz_m -0.0587514 distance_m 2.532
+frame_id 854 time_s 7.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.159916
+tx_m 0.177746 ty_m 0.453512 tz_m 2.48024 rx_m 0.164861 ry_m 0.036985 rz_m -0.0318302 distance_m 2.52762
+frame_id 855 time_s 7.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.102195
+tx_m 0.172204 ty_m 0.454346 tz_m 2.48092 rx_m 0.230348 ry_m 0.0388997 rz_m -0.034017 distance_m 2.52805
+frame_id 856 time_s 7.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.136687
+tx_m 0.170607 ty_m 0.461864 tz_m 2.5297 rx_m 0.198849 ry_m 0.0412976 rz_m -0.0105227 distance_m 2.57717
+frame_id 857 time_s 7.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.115709
+tx_m 0.16737 ty_m 0.466703 tz_m 2.55629 rx_m 0.171698 ry_m 0.0383025 rz_m -0.00914951 distance_m 2.60393
+frame_id 858 time_s 7.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0996406
+tx_m 0.161605 ty_m 0.466661 tz_m 2.55609 rx_m 0.171957 ry_m 0.0369834 rz_m -0.00884357 distance_m 2.60336
+frame_id 859 time_s 7.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0996589
+tx_m 0.15585 ty_m 0.467403 tz_m 2.55615 rx_m 0.238961 ry_m 0.0392922 rz_m -0.0109467 distance_m 2.6032
+frame_id 860 time_s 7.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132913
+tx_m 0.150086 ty_m 0.46736 tz_m 2.55596 rx_m 0.239176 ry_m 0.0378351 rz_m -0.0105491 distance_m 2.60266
+frame_id 861 time_s 7.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132957
+tx_m 0.146602 ty_m 0.472327 tz_m 2.58319 rx_m 0.214749 ry_m 0.0354526 rz_m -0.00938608 distance_m 2.63011
+frame_id 862 time_s 7.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.118242
+tx_m 0.143044 ty_m 0.4774 tz_m 2.61102 rx_m 0.188226 ry_m 0.0328791 rz_m -0.00819809 distance_m 2.65815
+frame_id 863 time_s 7.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10298
+tx_m 0.13716 ty_m 0.477363 tz_m 2.61084 rx_m 0.188437 ry_m 0.0315197 rz_m -0.00786659 distance_m 2.65767
+frame_id 864 time_s 7.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.103014
+tx_m 0.131115 ty_m 0.475553 tz_m 2.60494 rx_m 0.188147 ry_m 0.0479288 rz_m -0.000149105 distance_m 2.65124
+frame_id 865 time_s 7.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0139822
+tx_m 0.127359 ty_m 0.480719 tz_m 2.63329 rx_m 0.159534 ry_m 0.0466822 rz_m 0.000888213 distance_m 2.67984
+frame_id 866 time_s 7.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0226724
+tx_m 0.122327 ty_m 0.481238 tz_m 2.64021 rx_m 0.140944 ry_m 0.0251147 rz_m 0.0194903 distance_m 2.6865
+frame_id 867 time_s 7.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10826
+tx_m 0.11638 ty_m 0.481207 tz_m 2.64007 rx_m 0.141127 ry_m 0.0238687 rz_m 0.0197585 distance_m 2.68609
+frame_id 868 time_s 7.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10834
+tx_m 0.114427 ty_m 0.491906 tz_m 2.69881 rx_m 0.068561 ry_m 0.0162266 rz_m 0.022354 distance_m 2.74566
+frame_id 869 time_s 7.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0731632
+tx_m 0.108208 ty_m 0.489864 tz_m 2.69179 rx_m 0.066595 ry_m 0.0405915 rz_m 0.0300773 distance_m 2.73814
+frame_id 870 time_s 7.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0475928
+tx_m 0.10296 ty_m 0.490136 tz_m 2.69728 rx_m 0.0446084 ry_m 0.00823087 rz_m 0.0496888 distance_m 2.74338
+frame_id 871 time_s 7.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0812204
+tx_m 0.0987158 ty_m 0.495258 tz_m 2.72567 rx_m -0.0125087 ry_m -0.00546577 rz_m 0.052982 distance_m 2.77205
+frame_id 872 time_s 7.26667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0424918
+tx_m 0.0923334 ty_m 0.490055 tz_m 2.69687 rx_m 0.0386723 ry_m 0.00703388 rz_m 0.0504799 distance_m 2.74259
+frame_id 873 time_s 7.275	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0729047
+tx_m 0.0895213 ty_m 0.495352 tz_m 2.72601 rx_m -0.0215334 ry_m -0.00388182 rz_m 0.0531987 distance_m 2.7721
+frame_id 874 time_s 7.28333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0480387
+tx_m 0.0832998 ty_m 0.493468 tz_m 2.71969 rx_m -0.0219412 ry_m 0.0355012 rz_m 0.0594242 distance_m 2.76535
+frame_id 875 time_s 7.29167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0800205
+tx_m 0.0794285 ty_m 0.499256 tz_m 2.7519 rx_m -0.171716 ry_m 0.180587 rz_m 0.0494761 distance_m 2.79795
+frame_id 876 time_s 7.3	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164132
+tx_m 0.072662 ty_m 0.486151 tz_m 2.6837 rx_m -0.180295 ry_m 0.371496 rz_m 0.032179 distance_m 2.72835
+frame_id 877 time_s 7.30833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.203938
+tx_m 0.0671308 ty_m 0.484835 tz_m 2.6764 rx_m -0.130515 ry_m -0.295929 rz_m 0.0987035 distance_m 2.72078
+frame_id 878 time_s 7.31667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.153772
+tx_m 0.0627917 ty_m 0.483235 tz_m 2.6716 rx_m -0.14716 ry_m -0.354114 rz_m 0.115299 distance_m 2.71567
+frame_id 879 time_s 7.325	detect_valid 0 pnp_valid 1 reprojection_error_px 0.164458
+tx_m 0.0571425 ty_m 0.484651 tz_m 2.68412 rx_m -0.21359 ry_m 0.465564 rz_m 0.0326136 distance_m 2.72812
+frame_id 880 time_s 7.33333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.195823
+tx_m 0.051941 ty_m 0.470592 tz_m 2.6055 rx_m -0.148989 ry_m -0.482885 rz_m 0.127171 distance_m 2.64816
+frame_id 881 time_s 7.34167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.262603
+tx_m 0.047946 ty_m 0.48051 tz_m 2.66509 rx_m -0.197242 ry_m 0.469307 rz_m 0.043546 distance_m 2.70848
+frame_id 882 time_s 7.35	detect_valid 0 pnp_valid 1 reprojection_error_px 0.223733
+tx_m 0.045474 ty_m 0.489421 tz_m 2.72195 rx_m -0.131884 ry_m -0.402523 rz_m 0.14054 distance_m 2.76597
+frame_id 883 time_s 7.35833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.177079
+tx_m 0.039705 ty_m 0.490761 tz_m 2.72977 rx_m -0.213784 ry_m 0.498057 rz_m 0.0612815 distance_m 2.77382
+frame_id 884 time_s 7.36667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.166524
+tx_m 0.0367098 ty_m 0.490174 tz_m 2.7299 rx_m -0.142067 ry_m -0.488417 rz_m 0.160543 distance_m 2.7738
+frame_id 885 time_s 7.375	detect_valid 0 pnp_valid 1 reprojection_error_px 0.257414
+tx_m 0.0308324 ty_m 0.474193 tz_m 2.64555 rx_m -0.225051 ry_m 0.574423 rz_m 0.0726989 distance_m 2.68788
+frame_id 886 time_s 7.38333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241257
+tx_m 0.0270959 ty_m 0.485753 tz_m 2.71421 rx_m -0.225506 ry_m 0.573652 rz_m 0.0762983 distance_m 2.75746
+frame_id 887 time_s 7.39167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.22749
+tx_m 0.0222449 ty_m 0.475679 tz_m 2.65847 rx_m -0.207517 ry_m 0.656302 rz_m 0.0511425 distance_m 2.70078
+frame_id 888 time_s 7.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.284274
+tx_m 0.0197488 ty_m 0.48691 tz_m 2.72528 rx_m -0.207335 ry_m 0.621901 rz_m 0.0556567 distance_m 2.76851
+frame_id 889 time_s 7.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.222769
+tx_m 0.0149245 ty_m 0.483645 tz_m 2.71078 rx_m -0.221472 ry_m 0.648844 rz_m 0.0741458 distance_m 2.75363
+frame_id 890 time_s 7.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.246583
+tx_m 0.0117809 ty_m 0.48133 tz_m 2.70036 rx_m -0.102651 ry_m -0.635764 rz_m 0.208114 distance_m 2.74295
+frame_id 891 time_s 7.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.238052
+tx_m 0.00733941 ty_m 0.481781 tz_m 2.70878 rx_m -0.219853 ry_m 0.68273 rz_m 0.0736568 distance_m 2.7513
+frame_id 892 time_s 7.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.262435
+tx_m 0.00295623 ty_m 0.48821 tz_m 2.74179 rx_m -0.197471 ry_m 0.735872 rz_m 0.0200735 distance_m 2.78492
+frame_id 893 time_s 7.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.257646
+tx_m 0.000570357 ty_m 0.49421 tz_m 2.7673 rx_m -0.189602 ry_m 0.760312 rz_m -0.014579 distance_m 2.81108
+frame_id 894 time_s 7.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.238718
+tx_m -0.002911 ty_m 0.584147 tz_m 3.26276 rx_m -0.172849 ry_m 0.00401599 rz_m -6.83921e-06 distance_m 3.31464
+frame_id 895 time_s 7.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 8.35849
+！！！！unreliable！！！！
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 896 time_s 7.46667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 897 time_s 7.475	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 898 time_s 7.48333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 899 time_s 7.49167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 900 time_s 7.5	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 901 time_s 7.50833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 902 time_s 7.51667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 903 time_s 7.525	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 904 time_s 7.53333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 905 time_s 7.54167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 906 time_s 7.55	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 907 time_s 7.55833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 908 time_s 7.56667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 909 time_s 7.575	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 910 time_s 7.58333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 911 time_s 7.59167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.410099 ty_m 0.268152 tz_m 2.72194 rx_m -0.111999 ry_m -0.640636 rz_m -0.0291638 distance_m 2.76569
+frame_id 912 time_s 7.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.278897
+tx_m 0.422172 ty_m 0.277585 tz_m 2.82364 rx_m -0.124167 ry_m -0.499905 rz_m -0.0855322 distance_m 2.86849
+frame_id 913 time_s 7.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.211598
+tx_m 0.399596 ty_m 0.265998 tz_m 2.69246 rx_m -0.128899 ry_m -0.556163 rz_m -0.0814063 distance_m 2.73492
+frame_id 914 time_s 7.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.2547
+tx_m 0.395444 ty_m 0.266621 tz_m 2.69012 rx_m -0.11764 ry_m -0.521271 rz_m -0.0624814 distance_m 2.73207
+frame_id 915 time_s 7.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.240911
+tx_m 0.395336 ty_m 0.269267 tz_m 2.71051 rx_m -0.108467 ry_m -0.489152 rz_m -0.0463339 distance_m 2.75239
+frame_id 916 time_s 7.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.224204
+tx_m 0.392472 ty_m 0.269871 tz_m 2.71728 rx_m -0.106792 ry_m -0.468464 rz_m -0.0465376 distance_m 2.75871
+frame_id 917 time_s 7.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.214831
+tx_m 0.386449 ty_m 0.268992 tz_m 2.70735 rx_m -0.104079 ry_m -0.43698 rz_m -0.0462851 distance_m 2.74799
+frame_id 918 time_s 7.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.20357
+tx_m 0.372155 ty_m 0.263043 tz_m 2.63283 rx_m -0.110135 ry_m -0.447643 rz_m -0.0588505 distance_m 2.67198
+frame_id 919 time_s 7.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.220198
+tx_m 0.378017 ty_m 0.269916 tz_m 2.70194 rx_m -0.109009 ry_m -0.375465 rz_m -0.0767169 distance_m 2.74157
+frame_id 920 time_s 7.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.17962
+tx_m 0.371447 ty_m 0.268556 tz_m 2.68761 rx_m -0.105532 ry_m -0.341095 rz_m -0.0776136 distance_m 2.72641
+frame_id 921 time_s 7.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.16675
+tx_m 0.366946 ty_m 0.268553 tz_m 2.6884 rx_m -0.10032 ry_m -0.292183 rz_m -0.0795001 distance_m 2.72659
+frame_id 922 time_s 7.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.145366
+tx_m 0.36552 ty_m 0.270991 tz_m 2.70625 rx_m -0.0939783 ry_m -0.267861 rz_m -0.0657621 distance_m 2.74424
+frame_id 923 time_s 7.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132487
+tx_m 0.362572 ty_m 0.27161 tz_m 2.71311 rx_m -0.0899736 ry_m -0.233821 rz_m -0.0668287 distance_m 2.75067
+frame_id 924 time_s 7.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.116938
+tx_m 0.356684 ty_m 0.271885 tz_m 2.71471 rx_m -0.0899806 ry_m -0.23651 rz_m -0.0644456 distance_m 2.75151
+frame_id 925 time_s 7.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.117846
+tx_m 0.343067 ty_m 0.265617 tz_m 2.64485 rx_m -0.0906556 ry_m -0.243896 rz_m -0.0618224 distance_m 2.6802
+frame_id 926 time_s 7.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.127443
+tx_m 0.339735 ty_m 0.267983 tz_m 2.65423 rx_m -0.080997 ry_m -0.206331 rz_m -0.0378945 distance_m 2.68927
+frame_id 927 time_s 7.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.108662
+tx_m 0.333785 ty_m 0.268231 tz_m 2.64902 rx_m -0.0775572 ry_m -0.16045 rz_m -0.0522869 distance_m 2.68341
+frame_id 928 time_s 7.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0881436
+tx_m 0.328053 ty_m 0.267937 tz_m 2.64525 rx_m -0.0719064 ry_m -0.127851 rz_m -0.0528145 distance_m 2.67895
+frame_id 929 time_s 7.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0730311
+tx_m 0.331619 ty_m 0.273419 tz_m 2.70074 rx_m 0.00187235 ry_m 0.0256703 rz_m -0.0802477 distance_m 2.73472
+frame_id 930 time_s 7.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0091915
+tx_m 0.325771 ty_m 0.273711 tz_m 2.70259 rx_m 0.000524653 ry_m 0.024214 rz_m -0.0780767 distance_m 2.73588
+frame_id 931 time_s 7.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00831167
+tx_m 0.316792 ty_m 0.270663 tz_m 2.66613 rx_m 0.104807 ry_m 0.0628389 rz_m -0.0732645 distance_m 2.69849
+frame_id 932 time_s 7.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0606049
+tx_m 0.310953 ty_m 0.270883 tz_m 2.66747 rx_m 0.104628 ry_m 0.0617088 rz_m -0.0714851 distance_m 2.69916
+frame_id 933 time_s 7.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0602781
+tx_m 0.301559 ty_m 0.267231 tz_m 2.62517 rx_m 0.18128 ry_m 0.0718757 rz_m -0.063726 distance_m 2.65591
+frame_id 934 time_s 7.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0985407
+tx_m 0.295754 ty_m 0.267384 tz_m 2.62605 rx_m 0.181466 ry_m 0.070557 rz_m -0.0622547 distance_m 2.65614
+frame_id 935 time_s 7.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0983884
+tx_m 0.28946 ty_m 0.267699 tz_m 2.62228 rx_m 0.0741413 ry_m 0.0536601 rz_m -0.0554884 distance_m 2.65175
+frame_id 936 time_s 7.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0473738
+tx_m 0.278707 ty_m 0.262392 tz_m 2.56401 rx_m 0.0519276 ry_m 0.0466346 rz_m -0.0539026 distance_m 2.59243
+frame_id 937 time_s 7.80833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0378908
+tx_m 0.273042 ty_m 0.262549 tz_m 2.56497 rx_m 0.0517318 ry_m 0.0456179 rz_m -0.0526213 distance_m 2.59278
+frame_id 938 time_s 7.81667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0375719
+tx_m 0.264652 ty_m 0.25927 tz_m 2.52659 rx_m 0.141052 ry_m 0.0633639 rz_m -0.0461736 distance_m 2.55361
+frame_id 939 time_s 7.825	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0853529
+tx_m 0.25778 ty_m 0.258132 tz_m 2.51513 rx_m 0.232399 ry_m 0.0664716 rz_m -0.0624828 distance_m 2.54145
+frame_id 940 time_s 7.83333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.132229
+tx_m 0.253407 ty_m 0.260157 tz_m 2.52795 rx_m 0.228061 ry_m 0.0671517 rz_m -0.0498663 distance_m 2.55391
+frame_id 941 time_s 7.84167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.128826
+tx_m 0.247728 ty_m 0.260136 tz_m 2.52805 rx_m 0.23376 ry_m 0.0658573 rz_m -0.0494047 distance_m 2.55344
+frame_id 942 time_s 7.85	detect_valid 0 pnp_valid 1 reprojection_error_px 0.131488
+tx_m 0.24201 ty_m 0.260095 tz_m 2.52771 rx_m 0.234234 ry_m 0.0642177 rz_m -0.049078 distance_m 2.55255
+frame_id 943 time_s 7.85833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.131572
+tx_m 0.234555 ty_m 0.257359 tz_m 2.50131 rx_m 0.262744 ry_m 0.0638676 rz_m -0.0501137 distance_m 2.52543
+frame_id 944 time_s 7.86667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.148776
+tx_m 0.227252 ty_m 0.254675 tz_m 2.47543 rx_m 0.288788 ry_m 0.0631289 rz_m -0.050962 distance_m 2.49885
+frame_id 945 time_s 7.875	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165239
+tx_m 0.221657 ty_m 0.254637 tz_m 2.47512 rx_m 0.289184 ry_m 0.0614068 rz_m -0.0505637 distance_m 2.49803
+frame_id 946 time_s 7.88333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165345
+tx_m 0.216098 ty_m 0.254662 tz_m 2.47519 rx_m 0.289439 ry_m 0.0597791 rz_m -0.0497689 distance_m 2.49762
+frame_id 947 time_s 7.89167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165296
+tx_m 0.211499 ty_m 0.256516 tz_m 2.48656 rx_m 0.285277 ry_m 0.0605944 rz_m -0.0379901 distance_m 2.50869
+frame_id 948 time_s 7.9	detect_valid 0 pnp_valid 1 reprojection_error_px 0.16175
+tx_m 0.207777 ty_m 0.258821 tz_m 2.50917 rx_m 0.278458 ry_m 0.0639551 rz_m -0.0148753 distance_m 2.53102
+frame_id 949 time_s 7.90833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.15573
+tx_m 0.201237 ty_m 0.257701 tz_m 2.49804 rx_m 0.343433 ry_m 0.0614156 rz_m -0.0282507 distance_m 2.51935
+frame_id 950 time_s 7.91667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.189515
+tx_m 0.195598 ty_m 0.257666 tz_m 2.49774 rx_m 0.343735 ry_m 0.0596262 rz_m -0.0277823 distance_m 2.5186
+frame_id 951 time_s 7.925	detect_valid 0 pnp_valid 1 reprojection_error_px 0.189562
+tx_m 0.189987 ty_m 0.256979 tz_m 2.49784 rx_m 0.398568 ry_m 0.0587694 rz_m -0.0294115 distance_m 2.5182
+frame_id 952 time_s 7.93333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.216549
+tx_m 0.185132 ty_m 0.258003 tz_m 2.50812 rx_m 0.342233 ry_m 0.0590088 rz_m -0.0157504 distance_m 2.52814
+frame_id 953 time_s 7.94167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187204
+tx_m 0.179475 ty_m 0.25797 tz_m 2.50784 rx_m 0.342507 ry_m 0.0572137 rz_m -0.0152819 distance_m 2.52745
+frame_id 954 time_s 7.95	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187249
+tx_m 0.17382 ty_m 0.257938 tz_m 2.50757 rx_m 0.342772 ry_m 0.0554181 rz_m -0.0148125 distance_m 2.52678
+frame_id 955 time_s 7.95833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187288
+tx_m 0.168166 ty_m 0.257907 tz_m 2.5073 rx_m 0.343029 ry_m 0.0536219 rz_m -0.014342 distance_m 2.52614
+frame_id 956 time_s 7.96667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187356
+tx_m 0.162515 ty_m 0.257877 tz_m 2.50705 rx_m 0.343278 ry_m 0.0518252 rz_m -0.0138706 distance_m 2.52551
+frame_id 957 time_s 7.975	detect_valid 0 pnp_valid 1 reprojection_error_px 0.187396
+tx_m 0.161646 ty_m 0.263318 tz_m 2.56012 rx_m 0.296841 ry_m 0.0493023 rz_m -0.01196 distance_m 2.5787
+frame_id 958 time_s 7.98333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.157266
+tx_m 0.155878 ty_m 0.26329 tz_m 2.55988 rx_m 0.297102 ry_m 0.0475474 rz_m -0.0115431 distance_m 2.5781
+frame_id 959 time_s 7.99167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.157318
+tx_m 0.150109 ty_m 0.26395 tz_m 2.55951 rx_m 0.22552 ry_m 0.0433316 rz_m -0.00886826 distance_m 2.57745
+frame_id 960 time_s 8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.122188
+tx_m 0.144345 ty_m 0.263924 tz_m 2.55929 rx_m 0.22581 ry_m 0.0416723 rz_m -0.0085373 distance_m 2.5769
+frame_id 961 time_s 8.00833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.122236
+tx_m 0.138577 ty_m 0.264565 tz_m 2.55879 rx_m 0.135056 ry_m 0.0349514 rz_m -0.0054594 distance_m 2.57617
+frame_id 962 time_s 8.01667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0768035
+tx_m 0.132622 ty_m 0.263221 tz_m 2.55268 rx_m 0.136778 ry_m 0.0590276 rz_m 0.00222398 distance_m 2.56964
+frame_id 963 time_s 8.025	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0404729
+tx_m 0.125748 ty_m 0.261251 tz_m 2.53319 rx_m 0.239053 ry_m 0.0371017 rz_m 0.0160798 distance_m 2.54973
+frame_id 964 time_s 8.03333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.165509
+tx_m 0.119868 ty_m 0.259833 tz_m 2.52644 rx_m 0.237456 ry_m 0.0536937 rz_m 0.0247803 distance_m 2.5426
+frame_id 965 time_s 8.04167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0587548
+tx_m 0.118079 ty_m 0.265385 tz_m 2.58039 rx_m 0.174425 ry_m 0.0531551 rz_m 0.02674 distance_m 2.59668
+frame_id 966 time_s 8.05	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187187
+tx_m 0.112272 ty_m 0.265361 tz_m 2.58018 rx_m 0.174717 ry_m 0.0515735 rz_m 0.0270082 distance_m 2.59622
+frame_id 967 time_s 8.05833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0183417
+tx_m 0.10539 ty_m 0.263101 tz_m 2.5598 rx_m -0.471592 ry_m 0.0539743 rz_m 0.0559896 distance_m 2.57544
+frame_id 968 time_s 8.06667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.158596
+tx_m 0.104324 ty_m 0.271057 tz_m 2.63561 rx_m 0.0803512 ry_m 0.0544069 rz_m 0.0300329 distance_m 2.65157
+frame_id 969 time_s 8.075	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0444847
+tx_m 0.0983942 ty_m 0.271034 tz_m 2.6354 rx_m 0.0807845 ry_m 0.0531384 rz_m 0.0301758 distance_m 2.65113
+frame_id 970 time_s 8.08333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0443572
+tx_m 0.0924654 ty_m 0.271011 tz_m 2.6352 rx_m 0.081209 ry_m 0.0518672 rz_m 0.0303209 distance_m 2.65071
+frame_id 971 time_s 8.09167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0442033
+tx_m 0.088723 ty_m 0.273245 tz_m 2.66462 rx_m -0.159103 ry_m 0.103849 rz_m 0.0484359 distance_m 2.68006
+frame_id 972 time_s 8.1	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0399821
+tx_m 0.0827448 ty_m 0.273258 tz_m 2.66476 rx_m -0.158106 ry_m 0.0999871 rz_m 0.0484422 distance_m 2.68001
+frame_id 973 time_s 8.10833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.03854
+tx_m 0.0767259 ty_m 0.271685 tz_m 2.65646 rx_m -0.0494169 ry_m 0.0910814 rz_m 0.0573214 distance_m 2.67142
+frame_id 974 time_s 8.11667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.124019
+tx_m 0.072132 ty_m 0.272197 tz_m 2.66128 rx_m -0.0896746 ry_m 0.241253 rz_m 0.0504277 distance_m 2.67614
+frame_id 975 time_s 8.125	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151535
+tx_m 0.0694999 ty_m 0.278707 tz_m 2.73238 rx_m -0.0860091 ry_m 0.222688 rz_m 0.0529465 distance_m 2.74743
+frame_id 976 time_s 8.13333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.140554
+tx_m 0.0648231 ty_m 0.278933 tz_m 2.73442 rx_m -0.0930511 ry_m 0.31264 rz_m 0.0490944 distance_m 2.74937
+frame_id 977 time_s 8.14167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.159539
+tx_m 0.0565611 ty_m 0.270215 tz_m 2.65669 rx_m -0.13663 ry_m 0.376649 rz_m 0.0530041 distance_m 2.671
+frame_id 978 time_s 8.15	detect_valid 0 pnp_valid 1 reprojection_error_px 0.176387
+tx_m 0.0520265 ty_m 0.270148 tz_m 2.65603 rx_m -0.132345 ry_m 0.433867 rz_m 0.0510777 distance_m 2.67024
+frame_id 979 time_s 8.15833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.194175
+tx_m 0.0488999 ty_m 0.276913 tz_m 2.72977 rx_m -0.132752 ry_m 0.425685 rz_m 0.052972 distance_m 2.74422
+frame_id 980 time_s 8.16667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.168822
+tx_m 0.0448085 ty_m 0.283129 tz_m 2.79043 rx_m -0.117435 ry_m 0.323309 rz_m 0.0692193 distance_m 2.80512
+frame_id 981 time_s 8.175	detect_valid 0 pnp_valid 1 reprojection_error_px 0.10022
+tx_m 0.0395782 ty_m 0.276077 tz_m 2.72125 rx_m -0.130035 ry_m 0.429078 rz_m 0.0534414 distance_m 2.73551
+frame_id 982 time_s 8.18333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.151306
+tx_m 0.0351082 ty_m 0.274847 tz_m 2.71669 rx_m -0.115824 ry_m 0.475803 rz_m 0.0624243 distance_m 2.73078
+frame_id 983 time_s 8.19167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.204187
+tx_m 0.0295677 ty_m 0.268352 tz_m 2.65296 rx_m -0.12567 ry_m 0.567752 rz_m 0.0475896 distance_m 2.66666
+frame_id 984 time_s 8.2	detect_valid 0 pnp_valid 1 reprojection_error_px 0.239514
+tx_m 0.0250887 ty_m 0.26673 tz_m 2.65162 rx_m -0.124272 ry_m 0.606636 rz_m 0.0470719 distance_m 2.66512
+frame_id 985 time_s 8.20833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.254619
+tx_m 0.0220652 ty_m 0.271067 tz_m 2.70895 rx_m -0.113855 ry_m 0.587414 rz_m 0.0611997 distance_m 2.72257
+frame_id 986 time_s 8.21667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.250062
+tx_m 0.0181361 ty_m 0.27313 tz_m 2.72221 rx_m -0.123466 ry_m 0.605227 rz_m 0.0489615 distance_m 2.73594
+frame_id 987 time_s 8.225	detect_valid 0 pnp_valid 1 reprojection_error_px 0.200237
+tx_m 0.0135758 ty_m 0.273279 tz_m 2.72391 rx_m -0.123637 ry_m 0.641051 rz_m 0.0483641 distance_m 2.73762
+frame_id 988 time_s 8.23333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.232498
+tx_m 0.0107051 ty_m 0.274785 tz_m 2.73127 rx_m -0.108166 ry_m 0.652095 rz_m 0.0292036 distance_m 2.74508
+frame_id 989 time_s 8.24167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.227485
+tx_m 0.00593022 ty_m 0.277197 tz_m 2.74831 rx_m -0.117046 ry_m 0.684585 rz_m 0.0159655 distance_m 2.76226
+frame_id 990 time_s 8.25	detect_valid 0 pnp_valid 1 reprojection_error_px 0.233388
+tx_m 0.00459898 ty_m 0.283019 tz_m 2.78384 rx_m -0.0960887 ry_m -0.767339 rz_m 0.0389831 distance_m 2.79819
+frame_id 991 time_s 8.25833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.302645
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 992 time_s 8.26667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 993 time_s 8.275	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 994 time_s 8.28333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 995 time_s 8.29167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 996 time_s 8.3	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 997 time_s 8.30833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 998 time_s 8.31667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 999 time_s 8.325	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1000 time_s 8.33333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1001 time_s 8.34167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1002 time_s 8.35	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1003 time_s 8.35833	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1004 time_s 8.36667	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1005 time_s 8.375	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1006 time_s 8.38333	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0 ty_m 0 tz_m 0 rx_m 0 ry_m 0 rz_m 0 distance_m 0
+frame_id 1007 time_s 8.39167	detect_valid 0 pnp_valid 0 reprojection_error_px 0
+tx_m 0.427027 ty_m 0.377813 tz_m 2.78638 rx_m -0.108263 ry_m -0.702748 rz_m 0.0568482 distance_m 2.84412
+frame_id 1008 time_s 8.4	detect_valid 0 pnp_valid 1 reprojection_error_px 0.286426
+tx_m 0.422191 ty_m 0.376447 tz_m 2.77004 rx_m -0.117734 ry_m -0.683767 rz_m 0.0382458 distance_m 2.8272
+frame_id 1009 time_s 8.40833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.283998
+tx_m 0.409765 ty_m 0.368153 tz_m 2.71832 rx_m -0.149679 ry_m -0.631435 rz_m -0.0327151 distance_m 2.77357
+frame_id 1010 time_s 8.41667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.27856
+tx_m 0.407447 ty_m 0.368071 tz_m 2.71826 rx_m -0.14888 ry_m -0.616124 rz_m -0.0341401 distance_m 2.77316
+frame_id 1011 time_s 8.425	detect_valid 0 pnp_valid 1 reprojection_error_px 0.273094
+tx_m 0.40385 ty_m 0.368225 tz_m 2.72001 rx_m -0.14485 ry_m -0.568433 rz_m -0.0353799 distance_m 2.77438
+frame_id 1012 time_s 8.43333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.255267
+tx_m 0.397665 ty_m 0.366875 tz_m 2.7092 rx_m -0.142171 ry_m -0.541579 rz_m -0.0349624 distance_m 2.7627
+frame_id 1013 time_s 8.44167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.247052
+tx_m 0.39367 ty_m 0.367461 tz_m 2.70272 rx_m -0.154958 ry_m -0.522072 rz_m -0.06844 distance_m 2.75584
+frame_id 1014 time_s 8.45	detect_valid 0 pnp_valid 1 reprojection_error_px 0.241896
+tx_m 0.389347 ty_m 0.367704 tz_m 2.70461 rx_m -0.1508 ry_m -0.487959 rz_m -0.0679292 distance_m 2.75712
+frame_id 1015 time_s 8.45833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.228122
+tx_m 0.385937 ty_m 0.368883 tz_m 2.70749 rx_m -0.143888 ry_m -0.481919 rz_m -0.0514509 distance_m 2.75962
+frame_id 1016 time_s 8.46667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.224619
+tx_m 0.383218 ty_m 0.369885 tz_m 2.71546 rx_m -0.141792 ry_m -0.460337 rz_m -0.0519459 distance_m 2.7672
+frame_id 1017 time_s 8.475	detect_valid 0 pnp_valid 1 reprojection_error_px 0.214733
+tx_m 0.368999 ty_m 0.361172 tz_m 2.64617 rx_m -0.141101 ry_m -0.460664 rz_m -0.0491389 distance_m 2.69608
+frame_id 1018 time_s 8.48333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.226128
+tx_m 0.358654 ty_m 0.355217 tz_m 2.59259 rx_m -0.138552 ry_m -0.500534 rz_m -0.0310776 distance_m 2.64128
+frame_id 1019 time_s 8.49167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.252106
+tx_m 0.361725 ty_m 0.36286 tz_m 2.64774 rx_m -0.138014 ry_m -0.423928 rz_m -0.0496485 distance_m 2.69685
+frame_id 1020 time_s 8.5	detect_valid 0 pnp_valid 1 reprojection_error_px 0.210299
+tx_m 0.36689 ty_m 0.373543 tz_m 2.72011 rx_m -0.129829 ry_m -0.335896 rz_m -0.0545706 distance_m 2.77004
+frame_id 1021 time_s 8.50833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.163248
+tx_m 0.362382 ty_m 0.37369 tz_m 2.72125 rx_m -0.123986 ry_m -0.285798 rz_m -0.0564576 distance_m 2.77059
+frame_id 1022 time_s 8.51667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.142036
+tx_m 0.359015 ty_m 0.37578 tz_m 2.73118 rx_m -0.11431 ry_m -0.237344 rz_m -0.0448079 distance_m 2.78019
+frame_id 1023 time_s 8.525	detect_valid 0 pnp_valid 1 reprojection_error_px 0.120042
+tx_m 0.33507 ty_m 0.358061 tz_m 2.59199 rx_m -0.127041 ry_m -0.352189 rz_m -0.0354155 distance_m 2.63797
+frame_id 1024 time_s 8.53333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.18642
+tx_m 0.33299 ty_m 0.36045 tz_m 2.60455 rx_m -0.121569 ry_m -0.333715 rz_m -0.0228661 distance_m 2.65037
+frame_id 1025 time_s 8.54167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.175757
+tx_m 0.346348 ty_m 0.378616 tz_m 2.74147 rx_m -0.10287 ry_m -0.160915 rz_m -0.0495512 distance_m 2.78908
+frame_id 1026 time_s 8.55	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0865297
+tx_m 0.330326 ty_m 0.368313 tz_m 2.6609 rx_m -0.117006 ry_m -0.248586 rz_m -0.0423086 distance_m 2.7065
+frame_id 1027 time_s 8.55833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.13135
+tx_m 0.334071 ty_m 0.378702 tz_m 2.7303 rx_m -0.085413 ry_m -0.0892994 rz_m -0.0542157 distance_m 2.77661
+frame_id 1028 time_s 8.56667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0556057
+tx_m 0.328135 ty_m 0.378161 tz_m 2.72641 rx_m -0.0624797 ry_m -0.0370338 rz_m -0.0585647 distance_m 2.772
+frame_id 1029 time_s 8.575	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0307339
+tx_m 0.322772 ty_m 0.37899 tz_m 2.72711 rx_m -0.0286783 ry_m 0.00367087 rz_m -0.0498562 distance_m 2.77218
+frame_id 1030 time_s 8.58333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0067633
+tx_m 0.316715 ty_m 0.379117 tz_m 2.72784 rx_m -0.02916 ry_m 0.00305081 rz_m -0.0491681 distance_m 2.77221
+frame_id 1031 time_s 8.59167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.00706502
+tx_m 0.308081 ty_m 0.375035 tz_m 2.6934 rx_m 0.0701415 ry_m 0.0497821 rz_m -0.0448805 distance_m 2.73678
+frame_id 1032 time_s 8.6	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0439857
+tx_m 0.293056 ty_m 0.364908 tz_m 2.6106 rx_m -0.0971757 ry_m -0.142397 rz_m -0.0219527 distance_m 2.65222
+frame_id 1033 time_s 8.60833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0856693
+tx_m 0.287989 ty_m 0.364282 tz_m 2.60609 rx_m -0.0664585 ry_m -0.0464612 rz_m -0.0296691 distance_m 2.64714
+frame_id 1034 time_s 8.61667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0382035
+tx_m 0.283204 ty_m 0.366353 tz_m 2.61596 rx_m -0.070648 ry_m -0.0571842 rz_m -0.0165617 distance_m 2.65663
+frame_id 1035 time_s 8.625	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0432489
+tx_m 0.275618 ty_m 0.362357 tz_m 2.58775 rx_m 0.0269609 ry_m 0.0344901 rz_m -0.0282224 distance_m 2.62749
+frame_id 1036 time_s 8.63333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0249198
+tx_m 0.271126 ty_m 0.364866 tz_m 2.60047 rx_m 0.0158298 ry_m 0.0299809 rz_m -0.0149718 distance_m 2.6399
+frame_id 1037 time_s 8.64167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187025
+tx_m 0.265277 ty_m 0.364873 tz_m 2.60052 rx_m 0.0161102 ry_m 0.0293989 rz_m -0.0147837 distance_m 2.63936
+frame_id 1038 time_s 8.65	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0187504
+tx_m 0.260634 ty_m 0.367271 tz_m 2.61258 rx_m 0.00627829 ry_m 0.0247719 rz_m -0.00205197 distance_m 2.65111
+frame_id 1039 time_s 8.65833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0132438
+tx_m 0.251152 ty_m 0.360103 tz_m 2.56142 rx_m 0.104997 ry_m 0.0533349 rz_m -0.00888706 distance_m 2.59878
+frame_id 1040 time_s 8.66667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0659748
+tx_m 0.245362 ty_m 0.360058 tz_m 2.56116 rx_m 0.105512 ry_m 0.05217 rz_m -0.00871257 distance_m 2.59796
+frame_id 1041 time_s 8.675	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0660368
+tx_m 0.238527 ty_m 0.358512 tz_m 2.54991 rx_m 0.198056 ry_m 0.0595664 rz_m -0.0250019 distance_m 2.58602
+frame_id 1042 time_s 8.68333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112931
+tx_m 0.232762 ty_m 0.358462 tz_m 2.54961 rx_m 0.19847 ry_m 0.0580991 rz_m -0.0246943 distance_m 2.58519
+frame_id 1043 time_s 8.69167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.112993
+tx_m 0.226999 ty_m 0.358413 tz_m 2.54932 rx_m 0.198875 ry_m 0.0566298 rz_m -0.0243853 distance_m 2.58438
+frame_id 1044 time_s 8.7	detect_valid 0 pnp_valid 1 reprojection_error_px 0.113069
+tx_m 0.222281 ty_m 0.360757 tz_m 2.56105 rx_m 0.194768 ry_m 0.0571548 rz_m -0.0125073 distance_m 2.59587
+frame_id 1045 time_s 8.70833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.1101
+tx_m 0.213415 ty_m 0.353265 tz_m 2.50778 rx_m 0.250062 ry_m 0.0597498 rz_m -0.0149127 distance_m 2.54151
+frame_id 1046 time_s 8.71667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143089
+tx_m 0.207749 ty_m 0.353217 tz_m 2.50749 rx_m 0.250399 ry_m 0.0581768 rz_m -0.0145343 distance_m 2.54075
+frame_id 1047 time_s 8.725	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143152
+tx_m 0.202086 ty_m 0.35317 tz_m 2.5072 rx_m 0.250728 ry_m 0.0566028 rz_m -0.0141546 distance_m 2.54001
+frame_id 1048 time_s 8.73333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143192
+tx_m 0.196425 ty_m 0.353125 tz_m 2.50693 rx_m 0.251047 ry_m 0.0550278 rz_m -0.0137736 distance_m 2.53928
+frame_id 1049 time_s 8.74167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.143246
+tx_m 0.190765 ty_m 0.353081 tz_m 2.50666 rx_m 0.251358 ry_m 0.0534519 rz_m -0.0133914 distance_m 2.53858
+frame_id 1050 time_s 8.75	detect_valid 0 pnp_valid 1 reprojection_error_px 0.14331
+tx_m 0.184859 ty_m 0.352347 tz_m 2.50144 rx_m 0.31109 ry_m 0.0688052 rz_m -0.00781855 distance_m 2.53289
+frame_id 1051 time_s 8.75833	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0748567
+tx_m 0.179213 ty_m 0.352301 tz_m 2.50116 rx_m 0.311358 ry_m 0.0671408 rz_m -0.00736049 distance_m 2.5322
+frame_id 1052 time_s 8.76667	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0747395
+tx_m 0.173559 ty_m 0.35151 tz_m 2.50068 rx_m 0.251258 ry_m 0.064808 rz_m -0.00469733 distance_m 2.53122
+frame_id 1053 time_s 8.775	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0452557
+tx_m 0.171354 ty_m 0.357388 tz_m 2.53248 rx_m 0.128974 ry_m 0.0374215 rz_m 0.0168483 distance_m 2.5633
+frame_id 1054 time_s 8.78333	detect_valid 0 pnp_valid 1 reprojection_error_px 0.106326
+tx_m 0.165646 ty_m 0.357355 tz_m 2.53228 rx_m 0.129311 ry_m 0.036134 rz_m 0.0170716 distance_m 2.56273
+frame_id 1055 time_s 8.79167	detect_valid 0 pnp_valid 1 reprojection_error_px 0.106402
+tx_m 0.159732 ty_m 0.356669 tz_m 2.52722 rx_m 0.211689 ry_m 0.059932 rz_m 0.0216936 distance_m 2.55726
+frame_id 1056 time_s 8.8	detect_valid 0 pnp_valid 1 reprojection_error_px 0.0524303
